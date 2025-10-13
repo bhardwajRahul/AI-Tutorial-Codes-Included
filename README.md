@@ -9,6 +9,7 @@
 * [MCPs Guides](https://github.com/Marktechpost/AI-Notebooks?tab=readme-ov-file#mcps-guides)
 * [LLMs, ML and Other AI Section](https://github.com/Marktechpost/AI-Tutorial-Codes-Included?tab=readme-ov-file#llmsml-and-other-ai-section)
 * [Voice AI](https://github.com/Marktechpost/AI-Tutorial-Codes-Included/blob/main/README.md#voice-ai)
+* [RAG](https://github.com/Marktechpost/AI-Tutorial-Codes-Included/blob/main/README.md#voice-ai)
 
 ---
   
@@ -192,3 +193,10 @@
 ▶ Building a Speech Enhancement and Automatic Speech Recognition (ASR) Pipeline in Python Using SpeechBrain  [Codes](https://github.com/Marktechpost/AI-Tutorial-Codes-Included/blob/main/guide_to_building_an_end_to_end_speech_enhancement_and_recognition_pipeline_with_speechbrain.py) [Tutorial](https://www.marktechpost.com/2025/09/09/building-a-speech-enhancement-and-automatic-speech-recognition-asr-pipeline-in-python-using-speechbrain/)
 
 ▶ How to Build an Advanced End-to-End Voice AI Agent Using Hugging Face Pipelines? [Codes](https://github.com/Marktechpost/AI-Tutorial-Codes-Included/blob/main/AI%20Agents%20Codes/how_to_build_an_advanced_end_to_end_voice_ai_agent_using_hugging_face_pipelines.py) [Tutorial](https://www.marktechpost.com/2025/09/17/how-to-build-an-advanced-end-to-end-voice-ai-agent-using-hugging-face-pipelines/)
+
+---
+
+### RAG
+
+▶ How to Evaluate Your RAG Pipeline with Synthetic Data? [Codes](https://github.com/Marktechpost/AI-Tutorial-Codes-Included/blob/main/RAG/rag_evaluation.py) [Tutorial](https://www.marktechpost.com/2025/10/13/how-to-evaluate-your-rag-pipeline-with-synthetic-data/)
+
