@@ -15,6 +15,8 @@
 
 ### Agentic AI and Agents
 
+▶ A Coding Implementation of Secure AI Agent with Self-Auditing Guardrails, PII Redaction, and Safe Tool Access in Python [Codes](https://github.com/Marktechpost/AI-Tutorial-Codes-Included/blob/main/AI%20Agents%20Codes/secure_ai_agent_with_guardrails_marktechpost.py) [Tutorial](https://www.marktechpost.com/2025/10/12/a-coding-implementation-of-secure-ai-agent-with-self-auditing-guardrails-pii-redaction-and-safe-tool-access-in-python/)
+
 ▶ An Intelligent Conversational Machine Learning Pipeline Integrating LangChain Agents and XGBoost for Automated Data Science Workflows [Codes](https://github.com/Marktechpost/AI-Tutorial-Codes-Included/blob/main/AI%20Agents%20Codes/LangChain_XGBoost_Agentic_Pipeline_Tutorial_Marktechpost.ipynb) [Tutorial](https://www.marktechpost.com/2025/10/07/an-intelligent-conversational-machine-learning-pipeline-integrating-langchain-agents-and-xgboost-for-automated-data-science-workflows/)
 
 ▶ How to Build an Advanced Agentic Retrieval-Augmented Generation (RAG) System with Dynamic Strategy and Smart Retrieval? [Codes](https://github.com/Marktechpost/AI-Tutorial-Codes-Included/blob/main/AI%20Agents%20Codes/agentic_rag_tutorial_marktechpost.py) [Tutorial](https://www.marktechpost.com/2025/09/30/how-to-build-an-advanced-agentic-retrieval-augmented-generation-rag-system-with-dynamic-strategy-and-smart-retrieval/)
