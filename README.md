@@ -132,6 +132,8 @@
 
 ### MCPs Guides 
 
+▶ An Implementation to Build Dynamic AI Systems with the Model Context Protocol (MCP) for Real-Time Resource and Tool Integration [Codes](https://github.com/Marktechpost/AI-Tutorial-Codes-Included/blob/main/MCP%20Codes/Model_Context_Protocol_Integration_Marktechpost.ipynb) [Tutorial](https://www.marktechpost.com/2025/10/19/an-implementation-to-build-dynamic-ai-systems-with-the-model-context-protocol-mcp-for-real-time-resource-and-tool-integration/)
+
 ▶ Implementing OAuth 2.1 for MCP Servers with Scalekit: A Step-by-Step Coding Tutorial [Codes](https://github.com/Marktechpost/AI-Tutorial-Codes-Included/tree/main/OAuth%202.1%20for%20MCP%20Servers) [Tutorial](https://www.marktechpost.com/2025/09/01/implementing-oauth-2-1-for-mcp-servers-with-scalekit-a-step-by-step-coding-tutorial/)
 
 ▶ Building an MCP-Powered AI Agent with Gemini and mcp-agent Framework: A Step-by-Step Implementation Guide [Notebook](https://github.com/Marktechpost/AI-Tutorial-Codes-Included/blob/main/mcp_gemini_agent_tutorial_Marktechpost.ipynb) [Tutorial](https://www.marktechpost.com/2025/08/17/building-an-mcp-powered-ai-agent-with-gemini-and-mcp-agent-framework-a-step-by-step-implementation-guide/)
