@@ -9,6 +9,7 @@
 * [MCPs Guides](https://github.com/Marktechpost/AI-Notebooks?tab=readme-ov-file#mcps-guides)
 * [LLMs, ML and Other AI Section](https://github.com/Marktechpost/AI-Tutorial-Codes-Included?tab=readme-ov-file#llmsml-and-other-ai-section)
 * [Voice AI](https://github.com/Marktechpost/AI-Tutorial-Codes-Included/blob/main/README.md#voice-ai)
+* [RAG](https://github.com/Marktechpost/AI-Tutorial-Codes-Included/blob/main/README.md#rag)
 
 ---
   
@@ -18,6 +19,8 @@
 ▶ A Coding Implementation of Secure AI Agent with Self-Auditing Guardrails, PII Redaction, and Safe Tool Access in Python [Codes](https://github.com/Marktechpost/AI-Tutorial-Codes-Included/blob/main/AI%20Agents%20Codes/secure_ai_agent_with_guardrails_marktechpost.py) [Tutorial](https://www.marktechpost.com/2025/10/12/a-coding-implementation-of-secure-ai-agent-with-self-auditing-guardrails-pii-redaction-and-safe-tool-access-in-python/)
 
 ▶ An Intelligent Conversational Machine Learning Pipeline Integrating LangChain Agents and XGBoost for Automated Data Science Workflows [Codes](https://github.com/Marktechpost/AI-Tutorial-Codes-Included/blob/main/AI%20Agents%20Codes/LangChain_XGBoost_Agentic_Pipeline_Tutorial_Marktechpost.ipynb) [Tutorial](https://www.marktechpost.com/2025/10/07/an-intelligent-conversational-machine-learning-pipeline-integrating-langchain-agents-and-xgboost-for-automated-data-science-workflows/)
+
+▶ A Coding Guide to Build an AI-Powered Cryptographic Agent System with Hybrid Encryption, Digital Signatures, and Adaptive Security Intelligence [Codes](https://github.com/Marktechpost/AI-Tutorial-Codes-Included/blob/main/AI%20Agents%20Codes/AI_Crypto_Agent_Secure_Comms_Marktechpost.ipynb) [Tutorial](https://www.marktechpost.com/2025/10/16/a-coding-guide-to-build-an-ai-powered-cryptographic-agent-system-with-hybrid-encryption-digital-signatures-and-adaptive-security-intelligence/)
 
 ▶ How to Build an Advanced Agentic Retrieval-Augmented Generation (RAG) System with Dynamic Strategy and Smart Retrieval? [Codes](https://github.com/Marktechpost/AI-Tutorial-Codes-Included/blob/main/AI%20Agents%20Codes/agentic_rag_tutorial_marktechpost.py) [Tutorial](https://www.marktechpost.com/2025/09/30/how-to-build-an-advanced-agentic-retrieval-augmented-generation-rag-system-with-dynamic-strategy-and-smart-retrieval/)
 
@@ -147,6 +150,8 @@
 
 ▶ A Coding Implementation to Build a Transformer-Based Regression Language Model to Predict Continuous Values from Text [Codes](https://github.com/Marktechpost/AI-Tutorial-Codes-Included/blob/main/ML%20Project%20Codes/regression_language_model_transformer_rlm_tutorial_Marktechpost.ipynb) [Tutorial](https://www.marktechpost.com/2025/10/04/a-coding-implementation-to-build-a-transformer-based-regression-language-model-to-predict-continuous-values-from-text/)
 
+▶ Ivy Framework Agnostic Machine Learning Build, Transpile, and Benchmark Across All Major Backends [Codes](https://github.com/Marktechpost/AI-Tutorial-Codes-Included/blob/main/ML%20Project%20Codes/Advanced_Ivy_Framework_Agnostic_ML_Tutorial_Marktechpost.ipynb) [Tutorial](https://www.marktechpost.com/2025/10/13/ivy-framework-agnostic-machine-learning-build-transpile-and-benchmark-across-all-major-backends/)
+
 ▶ A Coding Guide to Master Self-Supervised Learning with Lightly AI for Efficient Data Curation and Active Learning [Codes](https://github.com/Marktechpost/AI-Tutorial-Codes-Included/blob/main/ML%20Project%20Codes/lightly_ai_self_supervised_active_learning_Marktechpost.ipynb) [Tutorial](https://www.marktechpost.com/2025/10/11/a-coding-guide-to-master-self-supervised-learning-with-lightly-ai-for-efficient-data-curation-and-active-learning/)
 
 ▶ Building and Optimizing Intelligent Machine Learning Pipelines with TPOT for Complete Automation and Performance Enhancement [Notebook](https://github.com/Marktechpost/AI-Tutorial-Codes-Included/blob/main/ML%20Project%20Codes/tpot_advanced_pipeline_optimization_marktechpost.py) [Tutorial](https://www.marktechpost.com/2025/08/29/building-and-optimizing-intelligent-machine-learning-pipelines-with-tpot-for-complete-automation-and-performance-enhancement/)
@@ -192,3 +197,10 @@
 ▶ Building a Speech Enhancement and Automatic Speech Recognition (ASR) Pipeline in Python Using SpeechBrain  [Codes](https://github.com/Marktechpost/AI-Tutorial-Codes-Included/blob/main/guide_to_building_an_end_to_end_speech_enhancement_and_recognition_pipeline_with_speechbrain.py) [Tutorial](https://www.marktechpost.com/2025/09/09/building-a-speech-enhancement-and-automatic-speech-recognition-asr-pipeline-in-python-using-speechbrain/)
 
 ▶ How to Build an Advanced End-to-End Voice AI Agent Using Hugging Face Pipelines? [Codes](https://github.com/Marktechpost/AI-Tutorial-Codes-Included/blob/main/AI%20Agents%20Codes/how_to_build_an_advanced_end_to_end_voice_ai_agent_using_hugging_face_pipelines.py) [Tutorial](https://www.marktechpost.com/2025/09/17/how-to-build-an-advanced-end-to-end-voice-ai-agent-using-hugging-face-pipelines/)
+
+---
+
+### RAG
+
+▶ How to Evaluate Your RAG Pipeline with Synthetic Data? [Codes](https://github.com/Marktechpost/AI-Tutorial-Codes-Included/blob/main/RAG/rag_evaluation.py) [Tutorial](https://www.marktechpost.com/2025/10/13/how-to-evaluate-your-rag-pipeline-with-synthetic-data/)
+
