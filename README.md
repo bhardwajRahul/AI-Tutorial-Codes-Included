@@ -208,5 +208,7 @@
 
 ### RAG
 
+▶ How to Design a Fully Functional Enterprise AI Assistant with Retrieval Augmentation and Policy Guardrails Using Open Source AI Models [Codes](https://github.com/Marktechpost/AI-Tutorial-Codes-Included/blob/main/RAG/enterprise_ai_rag_guardrails_Marktechpost.ipynb) [Tutorial](https://www.marktechpost.com/2025/10/22/how-to-design-a-fully-functional-enterprise-ai-assistant-with-retrieval-augmentation-and-policy-guardrails-using-open-source-ai-models/)
+
 ▶ How to Evaluate Your RAG Pipeline with Synthetic Data? [Codes](https://github.com/Marktechpost/AI-Tutorial-Codes-Included/blob/main/RAG/rag_evaluation.py) [Tutorial](https://www.marktechpost.com/2025/10/13/how-to-evaluate-your-rag-pipeline-with-synthetic-data/)
 
