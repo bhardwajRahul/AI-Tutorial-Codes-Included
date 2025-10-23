@@ -18,6 +18,8 @@
 
 ▶ How I Built an Intelligent Multi-Agent Systems with AutoGen, LangChain, and Hugging Face to Demonstrate Practical Agentic AI Workflows [Codes](https://github.com/Marktechpost/AI-Tutorial-Codes-Included/blob/main/AI%20Agents%20Codes/Agentic_AI_LangChain_AutoGen_HuggingFace_Marktechpost.ipynb) [Tutorial](https://www.marktechpost.com/2025/10/21/how-i-built-an-intelligent-multi-agent-systems-with-autogen-langchain-and-hugging-face-to-demonstrate-practical-agentic-ai-workflows/)
 
+▶ A Coding Guide to Build a Fully Functional Multi-Agent Marketplace Using uAgent [Codes](https://github.com/Marktechpost/AI-Tutorial-Codes-Included/blob/main/AI%20Agents%20Codes/uagents_multi_agent_marketplace_Marktechpost.ipynb) [Tutorial](https://www.marktechpost.com/2025/10/23/a-coding-guide-to-build-a-fully-functional-multi-agent-marketplace-using-uagent/)
+
 ▶ A Coding Implementation of Secure AI Agent with Self-Auditing Guardrails, PII Redaction, and Safe Tool Access in Python [Codes](https://github.com/Marktechpost/AI-Tutorial-Codes-Included/blob/main/AI%20Agents%20Codes/secure_ai_agent_with_guardrails_marktechpost.py) [Tutorial](https://www.marktechpost.com/2025/10/12/a-coding-implementation-of-secure-ai-agent-with-self-auditing-guardrails-pii-redaction-and-safe-tool-access-in-python/)
 
 ▶ Meet LangChain’s DeepAgents Library and a Practical Example to See How DeepAgents Actually Work in Action [Codes](https://github.com/Marktechpost/AI-Tutorial-Codes-Included/blob/main/AI%20Agents%20Codes/Langchain_Deepagents.ipynb) [Tutorial](https://www.marktechpost.com/2025/10/20/meet-langchains-deepagents-library-and-a-practical-example-to-see-how-deepagents-actually-work-in-action/)
