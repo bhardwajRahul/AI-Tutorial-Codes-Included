@@ -18,6 +18,8 @@
 
 ▶ How to Build a Fully Functional Computer-Use Agent that Thinks, Plans, and Executes Virtual Actions Using Local AI Models [Codes](https://github.com/Marktechpost/AI-Tutorial-Codes-Included/blob/main/AI%20Agents%20Codes/Computer_Use_Agent_Local_AI_Marktechpost.ipynb) [Tutorial](https://www.marktechpost.com/2025/10/25/how-to-build-a-fully-functional-computer-use-agent-that-thinks-plans-and-executes-virtual-actions-using-local-ai-models/)
 
+▶ How to Build, Train, and Compare Multiple Reinforcement Learning Agents in a Custom Trading Environment Using Stable-Baselines3 [Codes](https://github.com/Marktechpost/AI-Tutorial-Codes-Included/blob/main/AI%20Agents%20Codes/advanced_stable_baselines3_trading_agent_marktechpost.py) [Tutorial](https://www.marktechpost.com/2025/10/26/how-to-build-train-and-compare-multiple-reinforcement-learning-agents-in-a-custom-trading-environment-using-stable-baselines3/)
+
 ▶ How I Built an Intelligent Multi-Agent Systems with AutoGen, LangChain, and Hugging Face to Demonstrate Practical Agentic AI Workflows [Codes](https://github.com/Marktechpost/AI-Tutorial-Codes-Included/blob/main/AI%20Agents%20Codes/Agentic_AI_LangChain_AutoGen_HuggingFace_Marktechpost.ipynb) [Tutorial](https://www.marktechpost.com/2025/10/21/how-i-built-an-intelligent-multi-agent-systems-with-autogen-langchain-and-hugging-face-to-demonstrate-practical-agentic-ai-workflows/)
 
 ▶ A Coding Guide to Build a Fully Functional Multi-Agent Marketplace Using uAgent [Codes](https://github.com/Marktechpost/AI-Tutorial-Codes-Included/blob/main/AI%20Agents%20Codes/uagents_multi_agent_marketplace_Marktechpost.ipynb) [Tutorial](https://www.marktechpost.com/2025/10/23/a-coding-guide-to-build-a-fully-functional-multi-agent-marketplace-using-uagent/)
