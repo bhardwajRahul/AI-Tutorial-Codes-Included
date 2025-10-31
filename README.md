@@ -16,6 +16,8 @@
 
 ### Agentic AI and Agents
 
+▶ How to Design an Autonomous Multi-Agent Data and Infrastructure Strategy System Using Lightweight Qwen Models for Efficient Pipeline Intelligence? [Codes](https://github.com/Marktechpost/AI-Tutorial-Codes-Included/blob/main/AI%20Agents%20Codes/agentic_data_infrastructure_strategy_qwen_marktechpost.py) [Tutorial](https://www.marktechpost.com/2025/10/30/how-to-design-an-autonomous-multi-agent-data-and-infrastructure-strategy-system-using-lightweight-qwen-models-for-efficient-pipeline-intelligence/)
+
 ▶ How to Build a Fully Functional Computer-Use Agent that Thinks, Plans, and Executes Virtual Actions Using Local AI Models [Codes](https://github.com/Marktechpost/AI-Tutorial-Codes-Included/blob/main/AI%20Agents%20Codes/Computer_Use_Agent_Local_AI_Marktechpost.ipynb) [Tutorial](https://www.marktechpost.com/2025/10/25/how-to-build-a-fully-functional-computer-use-agent-that-thinks-plans-and-executes-virtual-actions-using-local-ai-models/)
 
 ▶ How to Build Ethically Aligned Autonomous Agents through Value-Guided Reasoning and Self-Correcting Decision-Making Using Open-Source Models [Codes](https://github.com/Marktechpost/AI-Tutorial-Codes-Included/blob/main/AI%20Agents%20Codes/Value_Alignment_and_Ethics_in_Agentic_Systems_Marktechpost.ipynb) [Tutorial](https://www.marktechpost.com/2025/10/29/how-to-build-ethically-aligned-autonomous-agents-through-value-guided-reasoning-and-self-correcting-decision-making-using-open-source-models/)
