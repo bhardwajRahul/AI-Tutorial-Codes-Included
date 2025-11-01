@@ -164,6 +164,8 @@
 
 ### LLMs,ML and Other AI Section
 
+▶ How to Build an End-to-End Data Engineering and Machine Learning Pipeline with Apache Spark and PySpark [Codes](https://github.com/Marktechpost/AI-Tutorial-Codes-Included/blob/main/ML%20Project%20Codes/Advanced_PySpark_End_to_End_Tutorial_Marktechpost.ipynb) [Tutorial](https://www.marktechpost.com/2025/11/01/how-to-build-an-end-to-end-data-engineering-and-machine-learning-pipeline-with-apache-spark-and-pyspark/)
+
 ▶ A Coding Implementation to Build a Transformer-Based Regression Language Model to Predict Continuous Values from Text [Codes](https://github.com/Marktechpost/AI-Tutorial-Codes-Included/blob/main/ML%20Project%20Codes/regression_language_model_transformer_rlm_tutorial_Marktechpost.ipynb) [Tutorial](https://www.marktechpost.com/2025/10/04/a-coding-implementation-to-build-a-transformer-based-regression-language-model-to-predict-continuous-values-from-text/)
 
 ▶ An Implementation on Building Advanced Multi-Endpoint Machine Learning APIs with LitServe: Batching, Streaming, Caching, and Local Inference [Codes](https://github.com/Marktechpost/AI-Tutorial-Codes-Included/blob/main/ML%20Project%20Codes/advanced_litserve_multi_endpoint_api_tutorial_marktechpost.py) [Tutorial](https://www.marktechpost.com/2025/10/24/an-implementation-on-building-advanced-multi-endpoint-machine-learning-apis-with-litserve-batching-streaming-caching-and-local-inference/)
