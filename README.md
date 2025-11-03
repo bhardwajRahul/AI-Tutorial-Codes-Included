@@ -16,7 +16,23 @@
 
 ### Agentic AI and Agents
 
+▶ How to Design an Autonomous Multi-Agent Data and Infrastructure Strategy System Using Lightweight Qwen Models for Efficient Pipeline Intelligence? [Codes](https://github.com/Marktechpost/AI-Tutorial-Codes-Included/blob/main/AI%20Agents%20Codes/agentic_data_infrastructure_strategy_qwen_marktechpost.py) [Tutorial](https://www.marktechpost.com/2025/10/30/how-to-design-an-autonomous-multi-agent-data-and-infrastructure-strategy-system-using-lightweight-qwen-models-for-efficient-pipeline-intelligence/)
+
+▶ How to Build a Fully Functional Computer-Use Agent that Thinks, Plans, and Executes Virtual Actions Using Local AI Models [Codes](https://github.com/Marktechpost/AI-Tutorial-Codes-Included/blob/main/AI%20Agents%20Codes/Computer_Use_Agent_Local_AI_Marktechpost.ipynb) [Tutorial](https://www.marktechpost.com/2025/10/25/how-to-build-a-fully-functional-computer-use-agent-that-thinks-plans-and-executes-virtual-actions-using-local-ai-models/)
+
+▶ A Coding Implementation of a Comprehensive Enterprise AI Benchmarking Framework to Evaluate Rule-Based LLM, and Hybrid Agentic AI Systems Across Real-World Tasks [Codes](https://github.com/Marktechpost/AI-Tutorial-Codes-Included/blob/main/AI%20Agents%20Codes/enterprise_agentic_benchmarking_framework_Marktechpost.ipynb) [Tutorial](https://www.marktechpost.com/2025/11/01/a-coding-implementation-of-a-comprehensive-enterprise-ai-benchmarking-framework-to-evaluate-rule-based-llm-and-hybrid-agentic-ai-systems-across-real-world-tasks/)
+
+▶ How to Build Ethically Aligned Autonomous Agents through Value-Guided Reasoning and Self-Correcting Decision-Making Using Open-Source Models [Codes](https://github.com/Marktechpost/AI-Tutorial-Codes-Included/blob/main/AI%20Agents%20Codes/Value_Alignment_and_Ethics_in_Agentic_Systems_Marktechpost.ipynb) [Tutorial](https://www.marktechpost.com/2025/10/29/how-to-build-ethically-aligned-autonomous-agents-through-value-guided-reasoning-and-self-correcting-decision-making-using-open-source-models/)
+
+▶ How to Build, Train, and Compare Multiple Reinforcement Learning Agents in a Custom Trading Environment Using Stable-Baselines3 [Codes](https://github.com/Marktechpost/AI-Tutorial-Codes-Included/blob/main/AI%20Agents%20Codes/advanced_stable_baselines3_trading_agent_marktechpost.py) [Tutorial](https://www.marktechpost.com/2025/10/26/how-to-build-train-and-compare-multiple-reinforcement-learning-agents-in-a-custom-trading-environment-using-stable-baselines3/)
+
+▶ How I Built an Intelligent Multi-Agent Systems with AutoGen, LangChain, and Hugging Face to Demonstrate Practical Agentic AI Workflows [Codes](https://github.com/Marktechpost/AI-Tutorial-Codes-Included/blob/main/AI%20Agents%20Codes/Agentic_AI_LangChain_AutoGen_HuggingFace_Marktechpost.ipynb) [Tutorial](https://www.marktechpost.com/2025/10/21/how-i-built-an-intelligent-multi-agent-systems-with-autogen-langchain-and-hugging-face-to-demonstrate-practical-agentic-ai-workflows/)
+
+▶ A Coding Guide to Build a Fully Functional Multi-Agent Marketplace Using uAgent [Codes](https://github.com/Marktechpost/AI-Tutorial-Codes-Included/blob/main/AI%20Agents%20Codes/uagents_multi_agent_marketplace_Marktechpost.ipynb) [Tutorial](https://www.marktechpost.com/2025/10/23/a-coding-guide-to-build-a-fully-functional-multi-agent-marketplace-using-uagent/)
+
 ▶ A Coding Implementation of Secure AI Agent with Self-Auditing Guardrails, PII Redaction, and Safe Tool Access in Python [Codes](https://github.com/Marktechpost/AI-Tutorial-Codes-Included/blob/main/AI%20Agents%20Codes/secure_ai_agent_with_guardrails_marktechpost.py) [Tutorial](https://www.marktechpost.com/2025/10/12/a-coding-implementation-of-secure-ai-agent-with-self-auditing-guardrails-pii-redaction-and-safe-tool-access-in-python/)
+
+▶ Meet LangChain’s DeepAgents Library and a Practical Example to See How DeepAgents Actually Work in Action [Codes](https://github.com/Marktechpost/AI-Tutorial-Codes-Included/blob/main/AI%20Agents%20Codes/Langchain_Deepagents.ipynb) [Tutorial](https://www.marktechpost.com/2025/10/20/meet-langchains-deepagents-library-and-a-practical-example-to-see-how-deepagents-actually-work-in-action/)
 
 ▶ An Intelligent Conversational Machine Learning Pipeline Integrating LangChain Agents and XGBoost for Automated Data Science Workflows [Codes](https://github.com/Marktechpost/AI-Tutorial-Codes-Included/blob/main/AI%20Agents%20Codes/LangChain_XGBoost_Agentic_Pipeline_Tutorial_Marktechpost.ipynb) [Tutorial](https://www.marktechpost.com/2025/10/07/an-intelligent-conversational-machine-learning-pipeline-integrating-langchain-agents-and-xgboost-for-automated-data-science-workflows/)
 
@@ -132,6 +148,8 @@
 
 ### MCPs Guides 
 
+▶ An Implementation to Build Dynamic AI Systems with the Model Context Protocol (MCP) for Real-Time Resource and Tool Integration [Codes](https://github.com/Marktechpost/AI-Tutorial-Codes-Included/blob/main/MCP%20Codes/Model_Context_Protocol_Integration_Marktechpost.ipynb) [Tutorial](https://www.marktechpost.com/2025/10/19/an-implementation-to-build-dynamic-ai-systems-with-the-model-context-protocol-mcp-for-real-time-resource-and-tool-integration/)
+
 ▶ Implementing OAuth 2.1 for MCP Servers with Scalekit: A Step-by-Step Coding Tutorial [Codes](https://github.com/Marktechpost/AI-Tutorial-Codes-Included/tree/main/OAuth%202.1%20for%20MCP%20Servers) [Tutorial](https://www.marktechpost.com/2025/09/01/implementing-oauth-2-1-for-mcp-servers-with-scalekit-a-step-by-step-coding-tutorial/)
 
 ▶ Building an MCP-Powered AI Agent with Gemini and mcp-agent Framework: A Step-by-Step Implementation Guide [Notebook](https://github.com/Marktechpost/AI-Tutorial-Codes-Included/blob/main/mcp_gemini_agent_tutorial_Marktechpost.ipynb) [Tutorial](https://www.marktechpost.com/2025/08/17/building-an-mcp-powered-ai-agent-with-gemini-and-mcp-agent-framework-a-step-by-step-implementation-guide/)
@@ -148,7 +166,11 @@
 
 ### LLMs,ML and Other AI Section
 
+▶ How to Build an End-to-End Data Engineering and Machine Learning Pipeline with Apache Spark and PySpark [Codes](https://github.com/Marktechpost/AI-Tutorial-Codes-Included/blob/main/ML%20Project%20Codes/Advanced_PySpark_End_to_End_Tutorial_Marktechpost.ipynb) [Tutorial](https://www.marktechpost.com/2025/11/01/how-to-build-an-end-to-end-data-engineering-and-machine-learning-pipeline-with-apache-spark-and-pyspark/)
+
 ▶ A Coding Implementation to Build a Transformer-Based Regression Language Model to Predict Continuous Values from Text [Codes](https://github.com/Marktechpost/AI-Tutorial-Codes-Included/blob/main/ML%20Project%20Codes/regression_language_model_transformer_rlm_tutorial_Marktechpost.ipynb) [Tutorial](https://www.marktechpost.com/2025/10/04/a-coding-implementation-to-build-a-transformer-based-regression-language-model-to-predict-continuous-values-from-text/)
+
+▶ An Implementation on Building Advanced Multi-Endpoint Machine Learning APIs with LitServe: Batching, Streaming, Caching, and Local Inference [Codes](https://github.com/Marktechpost/AI-Tutorial-Codes-Included/blob/main/ML%20Project%20Codes/advanced_litserve_multi_endpoint_api_tutorial_marktechpost.py) [Tutorial](https://www.marktechpost.com/2025/10/24/an-implementation-on-building-advanced-multi-endpoint-machine-learning-apis-with-litserve-batching-streaming-caching-and-local-inference/)
 
 ▶ Ivy Framework Agnostic Machine Learning Build, Transpile, and Benchmark Across All Major Backends [Codes](https://github.com/Marktechpost/AI-Tutorial-Codes-Included/blob/main/ML%20Project%20Codes/Advanced_Ivy_Framework_Agnostic_ML_Tutorial_Marktechpost.ipynb) [Tutorial](https://www.marktechpost.com/2025/10/13/ivy-framework-agnostic-machine-learning-build-transpile-and-benchmark-across-all-major-backends/)
 
@@ -201,6 +223,10 @@
 ---
 
 ### RAG
+
+▶ How to Build an Agentic Decision-Tree RAG System with Intelligent Query Routing, Self-Checking, and Iterative Refinement? [Codes](https://github.com/Marktechpost/AI-Tutorial-Codes-Included/blob/main/RAG/agentic_rag_with_routing_and_self_check_marktechpost.py) [Tutorial](https://www.marktechpost.com/2025/10/27/how-to-build-an-agentic-decision-tree-rag-system-with-intelligent-query-routing-self-checking-and-iterative-refinement/)
+
+▶ How to Design a Fully Functional Enterprise AI Assistant with Retrieval Augmentation and Policy Guardrails Using Open Source AI Models [Codes](https://github.com/Marktechpost/AI-Tutorial-Codes-Included/blob/main/RAG/enterprise_ai_rag_guardrails_Marktechpost.ipynb) [Tutorial](https://www.marktechpost.com/2025/10/22/how-to-design-a-fully-functional-enterprise-ai-assistant-with-retrieval-augmentation-and-policy-guardrails-using-open-source-ai-models/)
 
 ▶ How to Evaluate Your RAG Pipeline with Synthetic Data? [Codes](https://github.com/Marktechpost/AI-Tutorial-Codes-Included/blob/main/RAG/rag_evaluation.py) [Tutorial](https://www.marktechpost.com/2025/10/13/how-to-evaluate-your-rag-pipeline-with-synthetic-data/)
 
