@@ -6,8 +6,9 @@
 ### Index 
 
 * [Agentic AI and Agents](https://github.com/Marktechpost/AI-Notebooks?tab=readme-ov-file#agentic-ai-and-agents)
+* [ML & Data Science](https://github.com/Marktechpost/AI-Notebooks?tab=readme-ov-file#agentic-ai-and-agents)
 * [MCPs Guides](https://github.com/Marktechpost/AI-Notebooks?tab=readme-ov-file#mcps-guides)
-* [LLMs, ML and Other AI Section](https://github.com/Marktechpost/AI-Tutorial-Codes-Included?tab=readme-ov-file#llmsml-and-other-ai-section)
+* [LLMs and Other AI Section](https://github.com/Marktechpost/AI-Tutorial-Codes-Included?tab=readme-ov-file#llmsml-and-other-ai-section)
 * [Voice AI](https://github.com/Marktechpost/AI-Tutorial-Codes-Included/blob/main/README.md#voice-ai)
 * [RAG](https://github.com/Marktechpost/AI-Tutorial-Codes-Included/blob/main/README.md#rag)
 
@@ -147,6 +148,13 @@
 ▶ A Coding Implementation of an Intelligent AI Assistant with Jina Search, LangChain, and Gemini for Real-Time Information Retrieval [Notebook](https://github.com/Marktechpost/AI-Notebooks/blob/main/Jina_LangChain_Gemini_AI_Assistant_Marktechpost.ipynb) [Tutorial](https://www.marktechpost.com/2025/06/01/a-coding-implementation-of-an-intelligent-ai-assistant-with-jina-search-langchain-and-gemini-for-real-time-information-retrieval/)
 
 ---
+
+### Machine Learning & Data Science
+
+▶ How Can We Build Scalable and Reproducible Machine Learning Experiment Pipelines Using Meta Research Hydra? [Codes](https://github.com/Marktechpost/AI-Tutorial-Codes-Included/blob/main/ML%20Project%20Codes/meta_hydra_advanced_implementation_Marktechpost.ipynb) [Tutorial](https://www.marktechpost.com/2025/11/04/how-can-we-build-scalable-and-reproducible-machine-learning-experiment-pipelines-using-meta-research-hydra/)
+
+---
+
 
 ### MCPs Guides 
 
