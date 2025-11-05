@@ -17,6 +17,8 @@
 
 ### Agentic AI and Agents
 
+▶ How to Build a Model-Native Agent That Learns Internal Planning, Memory, and Multi-Tool Reasoning Through End-to-End Reinforcement Learning [Codes](https://github.com/Marktechpost/AI-Tutorial-Codes-Included/blob/main/Agentic%20AI%20Memory/Model_Native_Agentic_AI_End_to_End_RL_Marktechpost.ipynb) [Tutorial](https://www.marktechpost.com/2025/11/05/how-to-build-a-model-native-agent-that-learns-internal-planning-memory-and-multi-tool-reasoning-through-end-to-end-reinforcement-learning/)
+
 ▶ How to Design a Persistent Memory and Personalized Agentic AI System with Decay and Self-Evaluation? [Codes](https://github.com/Marktechpost/AI-Tutorial-Codes-Included/blob/main/Agentic%20AI%20Memory/Persistent_Memory_Personalised_Agentic_AI_Marktechpost.ipynb) [Tutorial](https://www.marktechpost.com/2025/11/02/how-to-design-a-persistent-memory-and-personalized-agentic-ai-system-with-decay-and-self-evaluation/)
 
 ▶ How to Design an Autonomous Multi-Agent Data and Infrastructure Strategy System Using Lightweight Qwen Models for Efficient Pipeline Intelligence? [Codes](https://github.com/Marktechpost/AI-Tutorial-Codes-Included/blob/main/AI%20Agents%20Codes/agentic_data_infrastructure_strategy_qwen_marktechpost.py) [Tutorial](https://www.marktechpost.com/2025/10/30/how-to-design-an-autonomous-multi-agent-data-and-infrastructure-strategy-system-using-lightweight-qwen-models-for-efficient-pipeline-intelligence/)
