@@ -159,6 +159,8 @@
 
 ▶ How Can We Build Scalable and Reproducible Machine Learning Experiment Pipelines Using Meta Research Hydra? [Codes](https://github.com/Marktechpost/AI-Tutorial-Codes-Included/blob/main/ML%20Project%20Codes/meta_hydra_advanced_implementation_Marktechpost.ipynb) [Tutorial](https://www.marktechpost.com/2025/11/04/how-can-we-build-scalable-and-reproducible-machine-learning-experiment-pipelines-using-meta-research-hydra/)
 
+▶ How to Build an Advanced Multi-Page Reflex Web Application with Real-Time Database, Dynamic State Management, and Reactive UI [Codes](https://github.com/Marktechpost/AI-Tutorial-Codes-Included/blob/main/ML%20Project%20Codes/advanced_reflex_reactive_webapp_Marktechpost.ipynb) [Tutorial](https://www.marktechpost.com/2025/11/08/how-to-build-an-advanced-multi-page-reflex-web-application-with-real-time-database-dynamic-state-management-and-reactive-ui/)
+
 ▶ How to Build an End-to-End Data Engineering and Machine Learning Pipeline with Apache Spark and PySpark [Codes](https://github.com/Marktechpost/AI-Tutorial-Codes-Included/blob/main/ML%20Project%20Codes/Advanced_PySpark_End_to_End_Tutorial_Marktechpost.ipynb) [Tutorial](https://www.marktechpost.com/2025/11/01/how-to-build-an-end-to-end-data-engineering-and-machine-learning-pipeline-with-apache-spark-and-pyspark/)
 
 ▶ How to Build Supervised AI Models When You Don’t Have Annotated Data [Codes](https://github.com/Marktechpost/AI-Tutorial-Codes-Included/blob/main/Data%20Science/Active_Learning.ipynb) [Tutorial](https://www.marktechpost.com/2025/11/03/how-to-build-supervised-ai-models-when-you-dont-have-annotated-data/)
