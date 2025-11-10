@@ -17,6 +17,8 @@
 
 ### Agentic AI and Agents
 
+▶ A Coding Implementation to Build Neural Memory Agents with Differentiable Memory, Meta-Learning, and Experience Replay for Continual Adaptation in Dynamic Environments [Codes](https://github.com/Marktechpost/AI-Tutorial-Codes-Included/blob/main/Agentic%20AI%20Memory/neural_memory_agents_continual_learning_Marktechpost.ipynb) [Tutorial](https://www.marktechpost.com/2025/11/09/a-coding-implementation-to-build-neural-memory-agents-with-differentiable-memory-meta-learning-and-experience-replay-for-continual-adaptation-in-dynamic-environments/)
+
 ▶ How to Build an Agentic Voice AI Assistant that Understands, Reasons, Plans, and Responds through Autonomous Multi-Step Intelligence [Codes](https://github.com/Marktechpost/AI-Tutorial-Codes-Included/blob/main/Voice%20AI/agentic_voice_ai_autonomous_assistant_Marktechpost.ipynb) [Tutorial](https://www.marktechpost.com/2025/11/08/how-to-build-an-agentic-voice-ai-assistant-that-understands-reasons-plans-and-responds-through-autonomous-multi-step-intelligence/)
 
 ▶ Build a Multi-Agent System for Integrated Transcriptomic, Proteomic, and Metabolomic Data Interpretation with Pathway Reasoning [Codes](https://github.com/Marktechpost/AI-Tutorial-Codes-Included/blob/main/AI%20Agents%20Codes/multi_agent_omics_integration_pipeline_Marktechpost.ipynb) [Tutorial](https://www.marktechpost.com/2025/11/07/build-a-multi-agent-system-for-integrated-transcriptomic-proteomic-and-metabolomic-data-interpretation-with-pathway-reasoning/)
