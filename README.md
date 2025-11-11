@@ -252,7 +252,7 @@
 
 ### RAG
 
-▶ HHow to Reduce Cost and Latency of Your RAG Application Using Semantic LLM Caching [Codes](https://github.com/Marktechpost/AI-Tutorial-Codes-Included/blob/main/RAG/Semantic_Caching.ipynb) [Tutorial](https://www.marktechpost.com/2025/11/11/how-to-reduce-cost-and-latency-of-your-rag-application-using-semantic-llm-caching/)
+▶ How to Reduce Cost and Latency of Your RAG Application Using Semantic LLM Caching [Codes](https://github.com/Marktechpost/AI-Tutorial-Codes-Included/blob/main/RAG/Semantic_Caching.ipynb) [Tutorial](https://www.marktechpost.com/2025/11/11/how-to-reduce-cost-and-latency-of-your-rag-application-using-semantic-llm-caching/)
 
 ▶ How to Build an Agentic Decision-Tree RAG System with Intelligent Query Routing, Self-Checking, and Iterative Refinement? [Codes](https://github.com/Marktechpost/AI-Tutorial-Codes-Included/blob/main/RAG/agentic_rag_with_routing_and_self_check_marktechpost.py) [Tutorial](https://www.marktechpost.com/2025/10/27/how-to-build-an-agentic-decision-tree-rag-system-with-intelligent-query-routing-self-checking-and-iterative-refinement/)
 
