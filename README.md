@@ -161,6 +161,8 @@
 
 ### Machine Learning & Data Science
 
+▶ How to Build an End-to-End Interactive Analytics Dashboard Using PyGWalker Features for Insightful Data Exploration [Codes](https://github.com/Marktechpost/AI-Tutorial-Codes-Included/blob/main/Data%20Science/advanced_pygwalker_visual_analysis_marktechpost.py) [Tutorial](https://www.marktechpost.com/2025/11/11/how-to-build-an-end-to-end-interactive-analytics-dashboard-using-pygwalker-features-for-insightful-data-exploration/)
+
 ▶ A Coding Implementation to Build and Train Advanced Architectures with Residual Connections, Self-Attention, and Adaptive Optimization Using JAX, Flax, and Optax [Codes](https://github.com/Marktechpost/AI-Tutorial-Codes-Included/blob/main/ML%20Project%20Codes/advanced_jax_flax_optax_training_pipeline_Marktechpost.ipynb) [Tutorial](https://www.marktechpost.com/2025/11/10/a-coding-implementation-to-build-and-train-advanced-architectures-with-residual-connections-self-attention-and-adaptive-optimization-using-jax-flax-and-optax/)
 
 ▶ How Can We Build Scalable and Reproducible Machine Learning Experiment Pipelines Using Meta Research Hydra? [Codes](https://github.com/Marktechpost/AI-Tutorial-Codes-Included/blob/main/ML%20Project%20Codes/meta_hydra_advanced_implementation_Marktechpost.ipynb) [Tutorial](https://www.marktechpost.com/2025/11/04/how-can-we-build-scalable-and-reproducible-machine-learning-experiment-pipelines-using-meta-research-hydra/)
