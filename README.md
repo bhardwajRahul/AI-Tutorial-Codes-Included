@@ -17,6 +17,8 @@
 
 ### Agentic AI and Agents
 
+▶ How to Design an Advanced Multi-Agent Reasoning System with spaCy Featuring Planning, Reflection, Memory, and Knowledge Graphs [Codes](https://github.com/Marktechpost/AI-Tutorial-Codes-Included/blob/main/Agentic%20AI%20Memory/spacy_agentic_ai_system_Marktechpost.ipynb) [Tutorial](https://www.marktechpost.com/2025/11/14/how-to-design-an-advanced-multi-agent-reasoning-system-with-spacy-featuring-planning-reflection-memory-and-knowledge-graphs/)
+
 ▶ How to Build a Fully Self-Verifying Data Operations AI Agent Using Local Hugging Face Models for Automated Planning, Execution, and Testing [Codes](https://github.com/Marktechpost/AI-Tutorial-Codes-Included/blob/main/AI%20Agents%20Codes/self_verifying_dataops_agent_local_hf_marktechpost.py) [Tutorial](https://www.marktechpost.com/2025/11/13/how-to-build-a-fully-self-verifying-data-operations-ai-agent-using-local-hugging-face-models-for-automated-planning-execution-and-testing/)
 
 ▶ A Coding Implementation to Build Neural Memory Agents with Differentiable Memory, Meta-Learning, and Experience Replay for Continual Adaptation in Dynamic Environments [Codes](https://github.com/Marktechpost/AI-Tutorial-Codes-Included/blob/main/Agentic%20AI%20Memory/neural_memory_agents_continual_learning_Marktechpost.ipynb) [Tutorial](https://www.marktechpost.com/2025/11/09/a-coding-implementation-to-build-neural-memory-agents-with-differentiable-memory-meta-learning-and-experience-replay-for-continual-adaptation-in-dynamic-environments/)
