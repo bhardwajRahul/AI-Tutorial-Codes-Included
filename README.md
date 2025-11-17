@@ -16,6 +16,7 @@
 * [LLMs and Other AI Section](https://github.com/Marktechpost/AI-Tutorial-Codes-Included?tab=readme-ov-file#llmsml-and-other-ai-section)
 * [Voice AI](https://github.com/Marktechpost/AI-Tutorial-Codes-Included/blob/main/README.md#voice-ai)
 * [RAG](https://github.com/Marktechpost/AI-Tutorial-Codes-Included/blob/main/README.md#rag)
+* [Computer Vision](https://github.com/Marktechpost/AI-Tutorial-Codes-Included/blob/main/README.md#rag)
 
 ---
   
@@ -274,4 +275,11 @@
 ▶ How to Design a Fully Functional Enterprise AI Assistant with Retrieval Augmentation and Policy Guardrails Using Open Source AI Models [Codes](https://github.com/Marktechpost/AI-Tutorial-Codes-Included/blob/main/RAG/enterprise_ai_rag_guardrails_Marktechpost.ipynb) [Tutorial](https://www.marktechpost.com/2025/10/22/how-to-design-a-fully-functional-enterprise-ai-assistant-with-retrieval-augmentation-and-policy-guardrails-using-open-source-ai-models/)
 
 ▶ How to Evaluate Your RAG Pipeline with Synthetic Data? [Codes](https://github.com/Marktechpost/AI-Tutorial-Codes-Included/blob/main/RAG/rag_evaluation.py) [Tutorial](https://www.marktechpost.com/2025/10/13/how-to-evaluate-your-rag-pipeline-with-synthetic-data/)
+
+
+---
+
+### Computer Vision
+
+▶ A Coding Guide to Implement Advanced Hyperparameter Optimization with Optuna using Pruning Multi-Objective Search, Early Stopping, and Deep Visual Analysis [Codes](https://github.com/Marktechpost/AI-Tutorial-Codes-Included/blob/main/Computer%20Vision/optuna_advanced_hpo_marktechpost.py) [Tutorial](https://www.marktechpost.com/2025/11/17/a-coding-guide-to-implement-advanced-hyperparameter-optimization-with-optuna-using-pruning-multi-objective-search-early-stopping-and-deep-visual-analysis/)
 
