@@ -23,6 +23,8 @@
 
 ### Agentic AI and Agents
 
+▶ How to Build an Agentic Deep Reinforcement Learning System with Curriculum Progression, Adaptive Exploration, and Meta-Level UCB Planning [Codes](https://github.com/Marktechpost/AI-Tutorial-Codes-Included/blob/main/AI%20Agents%20Codes/agentic_deep_rl_curriculum_ucb_meta_control_Marktechpost.ipynb) [Tutorial](https://www.marktechpost.com/2025/11/18/how-to-build-an-agentic-deep-reinforcement-learning-system-with-curriculum-progression-adaptive-exploration-and-meta-level-ucb-planning/)
+
 ▶ How to Build Memory-Powered Agentic AI That Learns Continuously Through Episodic Experiences and Semantic Patterns for Long-Term Autonomy [Codes](https://github.com/Marktechpost/AI-Tutorial-Codes-Included/blob/main/Agentic%20AI%20Memory/memory_driven_agentic_ai_Marktechpost.ipynb) [Tutorial](https://www.marktechpost.com/2025/11/15/how-to-build-memory-powered-agentic-ai-that-learns-continuously-through-episodic-experiences-and-semantic-patterns-for-long-term-autonomy/)
 
 ▶ How to Design an Advanced Multi-Agent Reasoning System with spaCy Featuring Planning, Reflection, Memory, and Knowledge Graphs [Codes](https://github.com/Marktechpost/AI-Tutorial-Codes-Included/blob/main/Agentic%20AI%20Memory/spacy_agentic_ai_system_Marktechpost.ipynb) [Tutorial](https://www.marktechpost.com/2025/11/14/how-to-design-an-advanced-multi-agent-reasoning-system-with-spacy-featuring-planning-reflection-memory-and-knowledge-graphs/)
