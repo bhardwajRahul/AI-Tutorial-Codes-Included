@@ -1,5 +1,10 @@
 🤝 Show your support - give a ⭐️ if you liked the content
 
+## Star History
+
+[![Star History Chart](https://api.star-history.com/svg?repos=Marktechpost/AI-Tutorial-Codes-Included&type=date&legend=top-left)](https://www.star-history.com/#Marktechpost/AI-Tutorial-Codes-Included&type=date&legend=top-left)
+
+
 
 # AI-Tutorials/Implementations and Notebooks
 
@@ -11,11 +16,26 @@
 * [LLMs and Other AI Section](https://github.com/Marktechpost/AI-Tutorial-Codes-Included?tab=readme-ov-file#llmsml-and-other-ai-section)
 * [Voice AI](https://github.com/Marktechpost/AI-Tutorial-Codes-Included/blob/main/README.md#voice-ai)
 * [RAG](https://github.com/Marktechpost/AI-Tutorial-Codes-Included/blob/main/README.md#rag)
+* [Computer Vision](https://github.com/Marktechpost/AI-Tutorial-Codes-Included/blob/main/README.md#computer-vision)
 
 ---
   
 
 ### Agentic AI and Agents
+
+▶ An Implementation of a Comprehensive Empirical Framework for Benchmarking Reasoning Strategies in Modern Agentic AI Systems [Codes](https://github.com/Marktechpost/AI-Tutorial-Codes-Included/blob/main/AI%20Agents%20Codes/agentic_benchmarking_empirical_study_Marktechpost.ipynb) [Tutorial](https://www.marktechpost.com/2025/11/19/an-implementation-of-a-comprehensive-empirical-framework-for-benchmarking-reasoning-strategies-in-modern-agentic-ai-systems/)
+
+▶ How to Build an Agentic Deep Reinforcement Learning System with Curriculum Progression, Adaptive Exploration, and Meta-Level UCB Planning [Codes](https://github.com/Marktechpost/AI-Tutorial-Codes-Included/blob/main/AI%20Agents%20Codes/agentic_deep_rl_curriculum_ucb_meta_control_Marktechpost.ipynb) [Tutorial](https://www.marktechpost.com/2025/11/18/how-to-build-an-agentic-deep-reinforcement-learning-system-with-curriculum-progression-adaptive-exploration-and-meta-level-ucb-planning/)
+
+▶ How to Build Memory-Powered Agentic AI That Learns Continuously Through Episodic Experiences and Semantic Patterns for Long-Term Autonomy [Codes](https://github.com/Marktechpost/AI-Tutorial-Codes-Included/blob/main/Agentic%20AI%20Memory/memory_driven_agentic_ai_Marktechpost.ipynb) [Tutorial](https://www.marktechpost.com/2025/11/15/how-to-build-memory-powered-agentic-ai-that-learns-continuously-through-episodic-experiences-and-semantic-patterns-for-long-term-autonomy/)
+
+▶ How to Design an Advanced Multi-Agent Reasoning System with spaCy Featuring Planning, Reflection, Memory, and Knowledge Graphs [Codes](https://github.com/Marktechpost/AI-Tutorial-Codes-Included/blob/main/Agentic%20AI%20Memory/spacy_agentic_ai_system_Marktechpost.ipynb) [Tutorial](https://www.marktechpost.com/2025/11/14/how-to-design-an-advanced-multi-agent-reasoning-system-with-spacy-featuring-planning-reflection-memory-and-knowledge-graphs/)
+
+▶ How to Build a Fully Self-Verifying Data Operations AI Agent Using Local Hugging Face Models for Automated Planning, Execution, and Testing [Codes](https://github.com/Marktechpost/AI-Tutorial-Codes-Included/blob/main/AI%20Agents%20Codes/self_verifying_dataops_agent_local_hf_marktechpost.py) [Tutorial](https://www.marktechpost.com/2025/11/13/how-to-build-a-fully-self-verifying-data-operations-ai-agent-using-local-hugging-face-models-for-automated-planning-execution-and-testing/)
+
+▶ A Coding Implementation to Build Neural Memory Agents with Differentiable Memory, Meta-Learning, and Experience Replay for Continual Adaptation in Dynamic Environments [Codes](https://github.com/Marktechpost/AI-Tutorial-Codes-Included/blob/main/Agentic%20AI%20Memory/neural_memory_agents_continual_learning_Marktechpost.ipynb) [Tutorial](https://www.marktechpost.com/2025/11/09/a-coding-implementation-to-build-neural-memory-agents-with-differentiable-memory-meta-learning-and-experience-replay-for-continual-adaptation-in-dynamic-environments/)
+
+▶ How to Build an Agentic Voice AI Assistant that Understands, Reasons, Plans, and Responds through Autonomous Multi-Step Intelligence [Codes](https://github.com/Marktechpost/AI-Tutorial-Codes-Included/blob/main/Voice%20AI/agentic_voice_ai_autonomous_assistant_Marktechpost.ipynb) [Tutorial](https://www.marktechpost.com/2025/11/08/how-to-build-an-agentic-voice-ai-assistant-that-understands-reasons-plans-and-responds-through-autonomous-multi-step-intelligence/)
 
 ▶ Build a Multi-Agent System for Integrated Transcriptomic, Proteomic, and Metabolomic Data Interpretation with Pathway Reasoning [Codes](https://github.com/Marktechpost/AI-Tutorial-Codes-Included/blob/main/AI%20Agents%20Codes/multi_agent_omics_integration_pipeline_Marktechpost.ipynb) [Tutorial](https://www.marktechpost.com/2025/11/07/build-a-multi-agent-system-for-integrated-transcriptomic-proteomic-and-metabolomic-data-interpretation-with-pathway-reasoning/)
 
@@ -157,7 +177,15 @@
 
 ### Machine Learning & Data Science
 
+▶ How to Build an End-to-End Interactive Analytics Dashboard Using PyGWalker Features for Insightful Data Exploration [Codes](https://github.com/Marktechpost/AI-Tutorial-Codes-Included/blob/main/Data%20Science/advanced_pygwalker_visual_analysis_marktechpost.py) [Tutorial](https://www.marktechpost.com/2025/11/11/how-to-build-an-end-to-end-interactive-analytics-dashboard-using-pygwalker-features-for-insightful-data-exploration/)
+
+▶ How to Design a Fully Interactive, Reactive, and Dynamic Terminal-Based Data Dashboard Using Textual? [Codes](https://github.com/Marktechpost/AI-Tutorial-Codes-Included/blob/main/Data%20Science/advanced_textual_data_dashboard_Marktechpost.ipynb) [Tutorial](https://www.marktechpost.com/2025/11/15/how-to-design-a-fully-interactive-reactive-and-dynamic-terminal-based-data-dashboard-using-textual/)
+
+▶ A Coding Implementation to Build and Train Advanced Architectures with Residual Connections, Self-Attention, and Adaptive Optimization Using JAX, Flax, and Optax [Codes](https://github.com/Marktechpost/AI-Tutorial-Codes-Included/blob/main/ML%20Project%20Codes/advanced_jax_flax_optax_training_pipeline_Marktechpost.ipynb) [Tutorial](https://www.marktechpost.com/2025/11/10/a-coding-implementation-to-build-and-train-advanced-architectures-with-residual-connections-self-attention-and-adaptive-optimization-using-jax-flax-and-optax/)
+
 ▶ How Can We Build Scalable and Reproducible Machine Learning Experiment Pipelines Using Meta Research Hydra? [Codes](https://github.com/Marktechpost/AI-Tutorial-Codes-Included/blob/main/ML%20Project%20Codes/meta_hydra_advanced_implementation_Marktechpost.ipynb) [Tutorial](https://www.marktechpost.com/2025/11/04/how-can-we-build-scalable-and-reproducible-machine-learning-experiment-pipelines-using-meta-research-hydra/)
+
+▶ How to Build an Advanced Multi-Page Reflex Web Application with Real-Time Database, Dynamic State Management, and Reactive UI [Codes](https://github.com/Marktechpost/AI-Tutorial-Codes-Included/blob/main/ML%20Project%20Codes/advanced_reflex_reactive_webapp_Marktechpost.ipynb) [Tutorial](https://www.marktechpost.com/2025/11/08/how-to-build-an-advanced-multi-page-reflex-web-application-with-real-time-database-dynamic-state-management-and-reactive-ui/)
 
 ▶ How to Build an End-to-End Data Engineering and Machine Learning Pipeline with Apache Spark and PySpark [Codes](https://github.com/Marktechpost/AI-Tutorial-Codes-Included/blob/main/ML%20Project%20Codes/Advanced_PySpark_End_to_End_Tutorial_Marktechpost.ipynb) [Tutorial](https://www.marktechpost.com/2025/11/01/how-to-build-an-end-to-end-data-engineering-and-machine-learning-pipeline-with-apache-spark-and-pyspark/)
 
@@ -232,6 +260,8 @@
 
 ### Voice AI
 
+▶ How to Build an Agentic Voice AI Assistant that Understands, Reasons, Plans, and Responds through Autonomous Multi-Step Intelligence [Codes](https://github.com/Marktechpost/AI-Tutorial-Codes-Included/blob/main/Voice%20AI/agentic_voice_ai_autonomous_assistant_Marktechpost.ipynb) [Tutorial](https://www.marktechpost.com/2025/11/08/how-to-build-an-agentic-voice-ai-assistant-that-understands-reasons-plans-and-responds-through-autonomous-multi-step-intelligence/)
+
 ▶ How to Build an Advanced Voice AI Pipeline with WhisperX for Transcription, Alignment, Analysis, and Export? [Codes](https://github.com/Marktechpost/AI-Tutorial-Codes-Included/blob/main/Voice%20AI/voice_ai_whisperx_advanced_tutorial_Marktechpost.ipynb) [Tutorial](https://www.marktechpost.com/2025/10/02/how-to-build-an-advanced-voice-ai-pipeline-with-whisperx-for-transcription-alignment-analysis-and-export/)
 
 ▶ Building a Speech Enhancement and Automatic Speech Recognition (ASR) Pipeline in Python Using SpeechBrain  [Codes](https://github.com/Marktechpost/AI-Tutorial-Codes-Included/blob/main/guide_to_building_an_end_to_end_speech_enhancement_and_recognition_pipeline_with_speechbrain.py) [Tutorial](https://www.marktechpost.com/2025/09/09/building-a-speech-enhancement-and-automatic-speech-recognition-asr-pipeline-in-python-using-speechbrain/)
@@ -242,9 +272,18 @@
 
 ### RAG
 
+▶ How to Reduce Cost and Latency of Your RAG Application Using Semantic LLM Caching [Codes](https://github.com/Marktechpost/AI-Tutorial-Codes-Included/blob/main/RAG/Semantic_Caching.ipynb) [Tutorial](https://www.marktechpost.com/2025/11/11/how-to-reduce-cost-and-latency-of-your-rag-application-using-semantic-llm-caching/)
+
 ▶ How to Build an Agentic Decision-Tree RAG System with Intelligent Query Routing, Self-Checking, and Iterative Refinement? [Codes](https://github.com/Marktechpost/AI-Tutorial-Codes-Included/blob/main/RAG/agentic_rag_with_routing_and_self_check_marktechpost.py) [Tutorial](https://www.marktechpost.com/2025/10/27/how-to-build-an-agentic-decision-tree-rag-system-with-intelligent-query-routing-self-checking-and-iterative-refinement/)
 
 ▶ How to Design a Fully Functional Enterprise AI Assistant with Retrieval Augmentation and Policy Guardrails Using Open Source AI Models [Codes](https://github.com/Marktechpost/AI-Tutorial-Codes-Included/blob/main/RAG/enterprise_ai_rag_guardrails_Marktechpost.ipynb) [Tutorial](https://www.marktechpost.com/2025/10/22/how-to-design-a-fully-functional-enterprise-ai-assistant-with-retrieval-augmentation-and-policy-guardrails-using-open-source-ai-models/)
 
 ▶ How to Evaluate Your RAG Pipeline with Synthetic Data? [Codes](https://github.com/Marktechpost/AI-Tutorial-Codes-Included/blob/main/RAG/rag_evaluation.py) [Tutorial](https://www.marktechpost.com/2025/10/13/how-to-evaluate-your-rag-pipeline-with-synthetic-data/)
+
+
+---
+
+### Computer Vision
+
+▶ A Coding Guide to Implement Advanced Hyperparameter Optimization with Optuna using Pruning Multi-Objective Search, Early Stopping, and Deep Visual Analysis [Codes](https://github.com/Marktechpost/AI-Tutorial-Codes-Included/blob/main/Computer%20Vision/optuna_advanced_hpo_marktechpost.py) [Tutorial](https://www.marktechpost.com/2025/11/17/a-coding-guide-to-implement-advanced-hyperparameter-optimization-with-optuna-using-pruning-multi-objective-search-early-stopping-and-deep-visual-analysis/)
 
