@@ -23,6 +23,8 @@
 
 ### Agentic AI and Agents
 
+▶ How to Build a Fully Offline Multi-Tool Reasoning Agent with Dynamic Planning, Error Recovery, and Intelligent Function Routing [Codes](https://github.com/Marktechpost/AI-Tutorial-Codes-Included/blob/main/Agentic%20AI%20Codes/advanced_multitool_agentic_ai_marktechpost.py) [Tutorial](https://www.marktechpost.com/2025/11/20/how-to-build-a-fully-offline-multi-tool-reasoning-agent-with-dynamic-planning-error-recovery-and-intelligent-function-routing/)
+
 ▶ An Implementation of a Comprehensive Empirical Framework for Benchmarking Reasoning Strategies in Modern Agentic AI Systems [Codes](https://github.com/Marktechpost/AI-Tutorial-Codes-Included/blob/main/AI%20Agents%20Codes/agentic_benchmarking_empirical_study_Marktechpost.ipynb) [Tutorial](https://www.marktechpost.com/2025/11/19/an-implementation-of-a-comprehensive-empirical-framework-for-benchmarking-reasoning-strategies-in-modern-agentic-ai-systems/)
 
 ▶ How to Build an Agentic Deep Reinforcement Learning System with Curriculum Progression, Adaptive Exploration, and Meta-Level UCB Planning [Codes](https://github.com/Marktechpost/AI-Tutorial-Codes-Included/blob/main/AI%20Agents%20Codes/agentic_deep_rl_curriculum_ucb_meta_control_Marktechpost.ipynb) [Tutorial](https://www.marktechpost.com/2025/11/18/how-to-build-an-agentic-deep-reinforcement-learning-system-with-curriculum-progression-adaptive-exploration-and-meta-level-ucb-planning/)
