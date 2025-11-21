@@ -216,6 +216,8 @@
 
 ### LLMs,ML and Other AI Section
 
+▶ An Implementation of Fully Traced and Evaluated Local LLM Pipeline Using Opik for Transparent, Measurable, and Reproducible AI Workflows [Codes](https://github.com/Marktechpost/AI-Tutorial-Codes-Included/blob/main/LLM%20Projects/opik_local_llm_tracing_and_evaluation_marktechpost.py) [Tutorial](https://www.marktechpost.com/2025/11/21/an-implementation-of-fully-traced-and-evaluated-local-llm-pipeline-using-opik-for-transparent-measurable-and-reproducible-ai-workflows/)
+
 ▶ A Coding Implementation to Build a Transformer-Based Regression Language Model to Predict Continuous Values from Text [Codes](https://github.com/Marktechpost/AI-Tutorial-Codes-Included/blob/main/ML%20Project%20Codes/regression_language_model_transformer_rlm_tutorial_Marktechpost.ipynb) [Tutorial](https://www.marktechpost.com/2025/10/04/a-coding-implementation-to-build-a-transformer-based-regression-language-model-to-predict-continuous-values-from-text/)
 
 ▶ An Implementation on Building Advanced Multi-Endpoint Machine Learning APIs with LitServe: Batching, Streaming, Caching, and Local Inference [Codes](https://github.com/Marktechpost/AI-Tutorial-Codes-Included/blob/main/ML%20Project%20Codes/advanced_litserve_multi_endpoint_api_tutorial_marktechpost.py) [Tutorial](https://www.marktechpost.com/2025/10/24/an-implementation-on-building-advanced-multi-endpoint-machine-learning-apis-with-litserve-batching-streaming-caching-and-local-inference/)
