@@ -23,6 +23,8 @@
 
 ### Agentic AI and Agents
 
+▶ How to Design a Mini Reinforcement Learning Environment-Acting Agent with Intelligent Local Feedback, Adaptive Decision-Making, and Multi-Agent Coordination [Codes](https://github.com/Marktechpost/AI-Tutorial-Codes-Included/blob/main/AI%20Agents%20Codes/agentic_multi_agent_rl_gridworld_Marktechpost.ipynb) [Tutorial](https://www.marktechpost.com/2025/11/22/how-to-design-a-mini-reinforcement-learning-environment-acting-agent-with-intelligent-local-feedback-adaptive-decision-making-and-multi-agent-coordination/)
+
 ▶ How to Build a Fully Offline Multi-Tool Reasoning Agent with Dynamic Planning, Error Recovery, and Intelligent Function Routing [Codes](https://github.com/Marktechpost/AI-Tutorial-Codes-Included/blob/main/Agentic%20AI%20Codes/advanced_multitool_agentic_ai_marktechpost.py) [Tutorial](https://www.marktechpost.com/2025/11/20/how-to-build-a-fully-offline-multi-tool-reasoning-agent-with-dynamic-planning-error-recovery-and-intelligent-function-routing/)
 
 ▶ An Implementation of a Comprehensive Empirical Framework for Benchmarking Reasoning Strategies in Modern Agentic AI Systems [Codes](https://github.com/Marktechpost/AI-Tutorial-Codes-Included/blob/main/AI%20Agents%20Codes/agentic_benchmarking_empirical_study_Marktechpost.ipynb) [Tutorial](https://www.marktechpost.com/2025/11/19/an-implementation-of-a-comprehensive-empirical-framework-for-benchmarking-reasoning-strategies-in-modern-agentic-ai-systems/)
