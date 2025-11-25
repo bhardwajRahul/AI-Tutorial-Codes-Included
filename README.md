@@ -23,6 +23,8 @@
 
 ### Agentic AI and Agents
 
+▶ How to Build a Neuro-Symbolic Hybrid Agent that Combines Logical Planning with Neural Perception for Robust Autonomous Decision-Making [Codes](https://github.com/Marktechpost/AI-Tutorial-Codes-Included/blob/main/AI%20Agents%20Codes/neuro_symbolic_hybrid_agent_Marktechpost.ipynb) [Tutorial](https://www.marktechpost.com/2025/11/24/how-to-build-a-neuro-symbolic-hybrid-agent-that-combines-logical-planning-with-neural-perception-for-robust-autonomous-decision-making/)
+
 ▶ How to Design a Mini Reinforcement Learning Environment-Acting Agent with Intelligent Local Feedback, Adaptive Decision-Making, and Multi-Agent Coordination [Codes](https://github.com/Marktechpost/AI-Tutorial-Codes-Included/blob/main/AI%20Agents%20Codes/agentic_multi_agent_rl_gridworld_Marktechpost.ipynb) [Tutorial](https://www.marktechpost.com/2025/11/22/how-to-design-a-mini-reinforcement-learning-environment-acting-agent-with-intelligent-local-feedback-adaptive-decision-making-and-multi-agent-coordination/)
 
 ▶ How to Build a Fully Offline Multi-Tool Reasoning Agent with Dynamic Planning, Error Recovery, and Intelligent Function Routing [Codes](https://github.com/Marktechpost/AI-Tutorial-Codes-Included/blob/main/Agentic%20AI%20Codes/advanced_multitool_agentic_ai_marktechpost.py) [Tutorial](https://www.marktechpost.com/2025/11/20/how-to-build-a-fully-offline-multi-tool-reasoning-agent-with-dynamic-planning-error-recovery-and-intelligent-function-routing/)
