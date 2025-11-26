@@ -220,6 +220,8 @@
 
 ### LLMs,ML and Other AI Section
 
+▶ How to Implement Functional Components of Transformer and Mini-GPT Model from Scratch Using Tinygrad to Understand Deep Learning Internals [Codes](https://github.com/Marktechpost/AI-Tutorial-Codes-Included/blob/main/LLM%20Projects/tinygrad_transformer_minigpt_Marktechpost.ipynb) [Tutorial](https://www.marktechpost.com/2025/11/25/how-to-implement-functional-components-of-transformer-and-mini-gpt-model-from-scratch-using-tinygrad-to-understand-deep-learning-internals/)
+
 ▶ An Implementation of Fully Traced and Evaluated Local LLM Pipeline Using Opik for Transparent, Measurable, and Reproducible AI Workflows [Codes](https://github.com/Marktechpost/AI-Tutorial-Codes-Included/blob/main/LLM%20Projects/opik_local_llm_tracing_and_evaluation_marktechpost.py) [Tutorial](https://www.marktechpost.com/2025/11/21/an-implementation-of-fully-traced-and-evaluated-local-llm-pipeline-using-opik-for-transparent-measurable-and-reproducible-ai-workflows/)
 
 ▶ A Coding Implementation to Build a Transformer-Based Regression Language Model to Predict Continuous Values from Text [Codes](https://github.com/Marktechpost/AI-Tutorial-Codes-Included/blob/main/ML%20Project%20Codes/regression_language_model_transformer_rlm_tutorial_Marktechpost.ipynb) [Tutorial](https://www.marktechpost.com/2025/10/04/a-coding-implementation-to-build-a-transformer-based-regression-language-model-to-predict-continuous-values-from-text/)
