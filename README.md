@@ -23,6 +23,8 @@
 
 ### Agentic AI and Agents
 
+▶ A Coding Implementation for an Agentic AI Framework that Performs Literature Analysis, Hypothesis Generation, Experimental Planning, Simulation, and Scientific Reporting [Codes](https://github.com/Marktechpost/AI-Tutorial-Codes-Included/blob/main/Agentic%20AI%20Codes/agentic_scientific_discovery_pipeline_marktechpost.py) [Tutorial](https://www.marktechpost.com/2025/11/27/a-coding-implementation-for-an-agentic-ai-framework-that-performs-literature-analysis-hypothesis-generation-experimental-planning-simulation-and-scientific-reporting/)
+
 ▶ How to Build a Neuro-Symbolic Hybrid Agent that Combines Logical Planning with Neural Perception for Robust Autonomous Decision-Making [Codes](https://github.com/Marktechpost/AI-Tutorial-Codes-Included/blob/main/AI%20Agents%20Codes/neuro_symbolic_hybrid_agent_Marktechpost.ipynb) [Tutorial](https://www.marktechpost.com/2025/11/24/how-to-build-a-neuro-symbolic-hybrid-agent-that-combines-logical-planning-with-neural-perception-for-robust-autonomous-decision-making/)
 
 ▶ How to Design a Mini Reinforcement Learning Environment-Acting Agent with Intelligent Local Feedback, Adaptive Decision-Making, and Multi-Agent Coordination [Codes](https://github.com/Marktechpost/AI-Tutorial-Codes-Included/blob/main/AI%20Agents%20Codes/agentic_multi_agent_rl_gridworld_Marktechpost.ipynb) [Tutorial](https://www.marktechpost.com/2025/11/22/how-to-design-a-mini-reinforcement-learning-environment-acting-agent-with-intelligent-local-feedback-adaptive-decision-making-and-multi-agent-coordination/)
