@@ -23,6 +23,8 @@
 
 ### Agentic AI and Agents
 
+▶ A Coding Guide to Design an Agentic AI System Using a Control-Plane Architecture for Safe, Modular, and Scalable Tool-Driven Reasoning Workflows [Codes](https://github.com/Marktechpost/AI-Tutorial-Codes-Included/blob/main/Agentic%20AI%20Codes/control_plane_agentic_ai_system_Marktechpost.ipynb) [Tutorial](https://www.marktechpost.com/2025/11/28/a-coding-guide-to-design-an-agentic-ai-system-using-a-control-plane-architecture-for-safe-modular-and-scalable-tool-driven-reasoning-workflows/)
+
 ▶ A Coding Implementation for an Agentic AI Framework that Performs Literature Analysis, Hypothesis Generation, Experimental Planning, Simulation, and Scientific Reporting [Codes](https://github.com/Marktechpost/AI-Tutorial-Codes-Included/blob/main/Agentic%20AI%20Codes/agentic_scientific_discovery_pipeline_marktechpost.py) [Tutorial](https://www.marktechpost.com/2025/11/27/a-coding-implementation-for-an-agentic-ai-framework-that-performs-literature-analysis-hypothesis-generation-experimental-planning-simulation-and-scientific-reporting/)
 
 ▶ How to Build a Neuro-Symbolic Hybrid Agent that Combines Logical Planning with Neural Perception for Robust Autonomous Decision-Making [Codes](https://github.com/Marktechpost/AI-Tutorial-Codes-Included/blob/main/AI%20Agents%20Codes/neuro_symbolic_hybrid_agent_Marktechpost.ipynb) [Tutorial](https://www.marktechpost.com/2025/11/24/how-to-build-a-neuro-symbolic-hybrid-agent-that-combines-logical-planning-with-neural-perception-for-robust-autonomous-decision-making/)
