@@ -187,6 +187,8 @@
 
 ### Machine Learning & Data Science
 
+▶ How to Design an Advanced Multi-Page Interactive Analytics Dashboard with Dynamic Filtering, Live KPIs, and Rich Visual Exploration Using Panel [Codes](https://github.com/Marktechpost/AI-Tutorial-Codes-Included/blob/main/Data%20Science/advanced_panel_interactive_dashboard_Marktechpost.ipynb) [Tutorial](https://www.marktechpost.com/2025/11/30/how-to-design-an-advanced-multi-page-interactive-analytics-dashboard-with-dynamic-filtering-live-kpis-and-rich-visual-exploration-using-panel/)
+
 ▶ How to Build an End-to-End Interactive Analytics Dashboard Using PyGWalker Features for Insightful Data Exploration [Codes](https://github.com/Marktechpost/AI-Tutorial-Codes-Included/blob/main/Data%20Science/advanced_pygwalker_visual_analysis_marktechpost.py) [Tutorial](https://www.marktechpost.com/2025/11/11/how-to-build-an-end-to-end-interactive-analytics-dashboard-using-pygwalker-features-for-insightful-data-exploration/)
 
 ▶ How to Design a Fully Interactive, Reactive, and Dynamic Terminal-Based Data Dashboard Using Textual? [Codes](https://github.com/Marktechpost/AI-Tutorial-Codes-Included/blob/main/Data%20Science/advanced_textual_data_dashboard_Marktechpost.ipynb) [Tutorial](https://www.marktechpost.com/2025/11/15/how-to-design-a-fully-interactive-reactive-and-dynamic-terminal-based-data-dashboard-using-textual/)
