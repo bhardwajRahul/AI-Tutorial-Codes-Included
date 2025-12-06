@@ -23,6 +23,8 @@
 
 ### Agentic AI and Agents
 
+▶ How to Design a Fully Local Multi-Agent Orchestration System Using TinyLlama for Intelligent Task Decomposition and Autonomous Collaboration [Codes](https://github.com/Marktechpost/AI-Tutorial-Codes-Included/blob/main/Agentic%20AI%20Codes/local_multi_agent_manager_marktechpost.py) [Tutorial](https://www.marktechpost.com/2025/12/05/how-to-design-a-fully-local-multi-agent-orchestration-system-using-tinyllama-for-intelligent-task-decomposition-and-autonomous-collaboration/)
+
 ▶ How to Build a Meta-Cognitive AI Agent That Dynamically Adjusts Its Own Reasoning Depth for Efficient Problem Solving [Codes](https://github.com/Marktechpost/AI-Tutorial-Codes-Included/blob/main/AI%20Agents%20Codes/meta_cognitive_reasoning_controller_Marktechpost.ipynb) [Tutorial](https://www.marktechpost.com/2025/12/03/how-to-build-a-meta-cognitive-ai-agent-that-dynamically-adjusts-its-own-reasoning-depth-for-efficient-problem-solving/)
 
 ▶ A Coding Guide to Design an Agentic AI System Using a Control-Plane Architecture for Safe, Modular, and Scalable Tool-Driven Reasoning Workflows [Codes](https://github.com/Marktechpost/AI-Tutorial-Codes-Included/blob/main/Agentic%20AI%20Codes/control_plane_agentic_ai_system_Marktechpost.ipynb) [Tutorial](https://www.marktechpost.com/2025/11/28/a-coding-guide-to-design-an-agentic-ai-system-using-a-control-plane-architecture-for-safe-modular-and-scalable-tool-driven-reasoning-workflows/)
