@@ -193,6 +193,8 @@
 
 ### Machine Learning & Data Science
 
+▶ A Coding Implementation of a Complete Hierarchical Bayesian Regression Workflow in NumPyro Using JAX-Powered Inference and Posterior Predictive Analysis [Codes](https://github.com/Marktechpost/AI-Tutorial-Codes-Included/blob/main/Data%20Science/numpyro_hierarchical_regression_advanced_Marktechpost.ipynb) [Tutorial](https://www.marktechpost.com/2025/12/07/a-coding-implementation-of-a-complete-hierarchical-bayesian-regression-workflow-in-numpyro-using-jax-powered-inference-and-posterior-predictive-analysis/)
+
 ▶ How to Design an Advanced Multi-Page Interactive Analytics Dashboard with Dynamic Filtering, Live KPIs, and Rich Visual Exploration Using Panel [Codes](https://github.com/Marktechpost/AI-Tutorial-Codes-Included/blob/main/Data%20Science/advanced_panel_interactive_dashboard_Marktechpost.ipynb) [Tutorial](https://www.marktechpost.com/2025/11/30/how-to-design-an-advanced-multi-page-interactive-analytics-dashboard-with-dynamic-filtering-live-kpis-and-rich-visual-exploration-using-panel/)
 
 ▶ How We Learn Step-Level Rewards from Preferences to Solve Sparse-Reward Environments Using Online Process Reward Learning [Codes](https://github.com/Marktechpost/AI-Tutorial-Codes-Included/blob/main/Reinforcement%20learning/oprl_preference_shaped_rl_Marktechpost.ipynb) [Tutorial](https://www.marktechpost.com/2025/12/02/how-we-learn-step-level-rewards-from-preferences-to-solve-sparse-reward-environments-using-online-process-reward-learning/)
