@@ -23,6 +23,8 @@
 
 ### Agentic AI and Agents
 
+▶ How to Build an Adaptive Meta-Reasoning Agent That Dynamically Chooses Between Fast, Deep, and Tool-Based Thinking Strategies [Codes](https://github.com/Marktechpost/AI-Tutorial-Codes-Included/blob/main/AI%20Agents%20Codes/adaptive_meta_reasoning_agent_Marktechpost.ipynb) [Tutorial](https://www.marktechpost.com/2025/12/06/how-to-build-an-adaptive-meta-reasoning-agent-that-dynamically-chooses-between-fast-deep-and-tool-based-thinking-strategies/)
+
 ▶ How to Design a Fully Local Multi-Agent Orchestration System Using TinyLlama for Intelligent Task Decomposition and Autonomous Collaboration [Codes](https://github.com/Marktechpost/AI-Tutorial-Codes-Included/blob/main/Agentic%20AI%20Codes/local_multi_agent_manager_marktechpost.py) [Tutorial](https://www.marktechpost.com/2025/12/05/how-to-design-a-fully-local-multi-agent-orchestration-system-using-tinyllama-for-intelligent-task-decomposition-and-autonomous-collaboration/)
 
 ▶ How to Build a Meta-Cognitive AI Agent That Dynamically Adjusts Its Own Reasoning Depth for Efficient Problem Solving [Codes](https://github.com/Marktechpost/AI-Tutorial-Codes-Included/blob/main/AI%20Agents%20Codes/meta_cognitive_reasoning_controller_Marktechpost.ipynb) [Tutorial](https://www.marktechpost.com/2025/12/03/how-to-build-a-meta-cognitive-ai-agent-that-dynamically-adjusts-its-own-reasoning-depth-for-efficient-problem-solving/)
