@@ -23,6 +23,8 @@
 
 ### Agentic AI and Agents
 
+▶ How to Orchestrate a Fully Autonomous Multi-Agent Research and Writing Pipeline Using CrewAI and Gemini for Real-Time Intelligent Collaboration [Codes](https://github.com/Marktechpost/AI-Tutorial-Codes-Included/blob/main/AI%20Agents%20Codes/crewai_multiagent_gemini_marktechpost.py) [Tutorial](https://www.marktechpost.com/2025/12/17/how-to-orchestrate-a-fully-autonomous-multi-agent-research-and-writing-pipeline-using-crewai-and-gemini-for-real-time-intelligent-collaboration/)
+
 ▶ How to Design a Gemini-Powered Self-Correcting Multi-Agent AI System with Semantic Routing, Symbolic Guardrails, and Reflexive Orchestration [Codes](https://github.com/Marktechpost/AI-Tutorial-Codes-Included/blob/main/AI%20Agents%20Codes/gemini_semantic_agent_orchestrator_Marktechpost.ipynb) [Tutorial](https://www.marktechpost.com/2025/12/15/how-to-design-a-gemini-powered-self-correcting-multi-agent-ai-system-with-semantic-routing-symbolic-guardrails-and-reflexive-orchestration/)
 
 ▶ How to Design a Fully Local Agentic Storytelling Pipeline Using Griptape Workflows, Hugging Face Models, and Modular Creative Task Orchestration [Codes](https://github.com/Marktechpost/AI-Tutorial-Codes-Included/blob/main/Agentic%20AI%20Codes/griptape_local_agentic_story_pipeline_marktechpost.py) [Tutorial](https://www.marktechpost.com/2025/12/12/how-to-design-a-fully-local-agentic-storytelling-pipeline-using-griptape-workflows-hugging-face-models-and-modular-creative-task-orchestration/)
