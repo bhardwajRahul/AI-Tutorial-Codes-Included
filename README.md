@@ -23,6 +23,8 @@
 
 ### Agentic AI and Agents
 
+▶ A Coding Guide to Design a Complete Agentic Workflow in Gemini for Automated Medical Evidence Gathering and Prior Authorization Submission [Codes](https://github.com/Marktechpost/AI-Tutorial-Codes-Included/blob/main/Agentic%20AI%20Codes/Gemini_Agentic_Medical_Authorization_Workflow_Marktechpost.ipynb) [Tutorial](https://www.marktechpost.com/2025/12/20/a-coding-guide-to-design-a-complete-agentic-workflow-in-gemini-for-automated-medical-evidence-gathering-and-prior-authorization-submission/)
+
 ▶ How to Orchestrate a Fully Autonomous Multi-Agent Research and Writing Pipeline Using CrewAI and Gemini for Real-Time Intelligent Collaboration [Codes](https://github.com/Marktechpost/AI-Tutorial-Codes-Included/blob/main/AI%20Agents%20Codes/crewai_multiagent_gemini_marktechpost.py) [Tutorial](https://www.marktechpost.com/2025/12/17/how-to-orchestrate-a-fully-autonomous-multi-agent-research-and-writing-pipeline-using-crewai-and-gemini-for-real-time-intelligent-collaboration/)
 
 ▶ A Complete Workflow for Automated Prompt Optimization Using Gemini Flash, Few-Shot Selection, and Evolutionary Instruction Search [Codes](https://github.com/Marktechpost/AI-Tutorial-Codes-Included/blob/main/Prompt%20Optimization/gemini_prompt_optimization_Marktechpost.ipynb) [Tutorial](https://www.marktechpost.com/2025/12/19/a-complete-workflow-for-automated-prompt-optimization-using-gemini-flash-few-shot-selection-and-evolutionary-instruction-search/)
