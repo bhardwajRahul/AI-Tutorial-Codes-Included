@@ -23,6 +23,8 @@
 
 ### Agentic AI and Agents
 
+▶ How to Build Contract-First Agentic Decision Systems with PydanticAI for Risk-Aware, Policy-Compliant Enterprise AI [Codes](https://github.com/Marktechpost/AI-Tutorial-Codes-Included/blob/main/Agentic%20AI%20Codes/pydantic_ai_contract_first_agentic_decision_system_Marktechpost.ipynb) [Tutorial](https://www.marktechpost.com/2025/12/28/how-to-build-contract-first-agentic-decision-systems-with-pydanticai-for-risk-aware-policy-compliant-enterprise-ai/)
+
 ▶ How to Build Production-Grade Agentic Workflows with GraphBit Using Deterministic Tools, Validated Execution Graphs, and Optional LLM Orchestration [Codes](https://github.com/Marktechpost/AI-Tutorial-Codes-Included/blob/main/Agentic%20Workflows/graphbit_production_agentic_workflows_offline_to_llm_Marktechpost.ipynb) [Tutorial](https://www.marktechpost.com/2025/12/27/how-to-build-production-grade-agentic-workflows-with-graphbit-using-deterministic-tools-validated-execution-graphs-and-optional-llm-orchestration/)
 
 ▶ A Coding Guide to Build an Autonomous Multi-Agent Logistics System with Route Planning, Dynamic Auctions, and Real-Time Visualization Using Graph-Based Simulation [Codes](https://github.com/Marktechpost/AI-Tutorial-Codes-Included/blob/main/Agentic%20AI%20Codes/agentic_logistics_swarm_simulation_Marktechpost.ipynb) [Tutorial](https://www.marktechpost.com/2025/12/24/a-coding-guide-to-build-an-autonomous-multi-agent-logistics-system-with-route-planning-dynamic-auctions-and-real-time-visualization-using-graph-based-simulation/)
