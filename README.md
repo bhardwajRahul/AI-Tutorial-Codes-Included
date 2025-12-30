@@ -217,6 +217,8 @@
 
 ### Machine Learning & Data Science
 
+▶ A Coding Implementation of an OpenAI-Assisted Privacy-Preserving Federated Fraud Detection System from Scratch Using Lightweight PyTorch Simulations [Codes](https://github.com/Marktechpost/AI-Tutorial-Codes-Included/blob/main/Federated%20Learning/openai_federated_fraud_detection_from_scratch_Marktechpost.ipynb) [Tutorial](https://www.marktechpost.com/2025/12/30/a-coding-implementation-of-an-openai-assisted-privacy-preserving-federated-fraud-detection-system-from-scratch-using-lightweight-pytorch-simulations/)
+
 ▶ A Coding Implementation on Building Self-Organizing Zettelkasten Knowledge Graphs and Sleep-Consolidation Mechanisms [Codes](https://github.com/Marktechpost/AI-Tutorial-Codes-Included/blob/main/Agentic%20AI%20Memory/Agentic_Zettelkasten_Memory_Martechpost.ipynb) [Tutorial](https://www.marktechpost.com/2025/12/25/a-coding-implementation-on-building-self-organizing-zettelkasten-knowledge-graphs-and-sleep-consolidation-mechanisms/)
 
 ▶ How to Build a High-Performance Distributed Task Routing System Using Kombu with Topic Exchanges and Concurrent Workers [Codes](https://github.com/Marktechpost/AI-Tutorial-Codes-Included/blob/main/Distributed%20Systems/kombu_task_routing_Marktechpost.ipynb) [Tutorial](https://www.marktechpost.com/2025/12/19/how-to-build-a-high-performance-distributed-task-routing-system-using-kombu-with-topic-exchanges-and-concurrent-workers/)
