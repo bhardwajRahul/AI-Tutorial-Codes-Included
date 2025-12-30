@@ -23,6 +23,8 @@
 
 ### Agentic AI and Agents
 
+▶ How to Build a Robust Multi-Agent Pipeline Using CAMEL with Planning, Web-Augmented Reasoning, Critique, and Persistent Memory [Codes](https://github.com/Marktechpost/AI-Tutorial-Codes-Included/blob/main/AI%20Agents%20Codes/camel_multi_agent_research_pipeline_Marktechpost.ipynb) [Tutorial](https://www.marktechpost.com/2025/12/29/how-to-build-a-robust-multi-agent-pipeline-using-camel-with-planning-web-augmented-reasoning-critique-and-persistent-memory/)
+
 ▶ How to Build Contract-First Agentic Decision Systems with PydanticAI for Risk-Aware, Policy-Compliant Enterprise AI [Codes](https://github.com/Marktechpost/AI-Tutorial-Codes-Included/blob/main/Agentic%20AI%20Codes/pydantic_ai_contract_first_agentic_decision_system_Marktechpost.ipynb) [Tutorial](https://www.marktechpost.com/2025/12/28/how-to-build-contract-first-agentic-decision-systems-with-pydanticai-for-risk-aware-policy-compliant-enterprise-ai/)
 
 ▶ How to Build Production-Grade Agentic Workflows with GraphBit Using Deterministic Tools, Validated Execution Graphs, and Optional LLM Orchestration [Codes](https://github.com/Marktechpost/AI-Tutorial-Codes-Included/blob/main/Agentic%20Workflows/graphbit_production_agentic_workflows_offline_to_llm_Marktechpost.ipynb) [Tutorial](https://www.marktechpost.com/2025/12/27/how-to-build-production-grade-agentic-workflows-with-graphbit-using-deterministic-tools-validated-execution-graphs-and-optional-llm-orchestration/)
