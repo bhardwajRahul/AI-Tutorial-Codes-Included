@@ -23,6 +23,8 @@
 
 ### Agentic AI and Agents
 
+▶ A Coding Implementation to Build a Self-Testing Agentic AI System Using Strands to Red-Team Tool-Using Agents and Enforce Safety at Runtime [Codes](https://github.com/Marktechpost/AI-Tutorial-Codes-Included/blob/main/Agentic%20AI%20Codes/strands_agentic_red_teaming_tool_injection_harness_Marktechpost.ipynb) [Tutorial](https://www.marktechpost.com/2026/01/02/a-coding-implementation-to-build-a-self-testing-agentic-ai-system-using-strands-to-red-team-tool-using-agents-and-enforce-safety-at-runtime/)
+
 ▶ How to Design Transactional Agentic AI Systems with LangGraph Using Two-Phase Commit, Human Interrupts, and Safe Rollbacks [Codes](https://github.com/Marktechpost/AI-Tutorial-Codes-Included/blob/main/Agentic%20AI%20Codes/transactional_agentic_ai_langgraph_two_phase_commit_Marktechpost.ipynb) [Tutorial](https://www.marktechpost.com/2025/12/31/how-to-design-transactional-agentic-ai-systems-with-langgraph-using-two-phase-commit-human-interrupts-and-safe-rollbacks/)
 
 ▶ How to Build a Robust Multi-Agent Pipeline Using CAMEL with Planning, Web-Augmented Reasoning, Critique, and Persistent Memory [Codes](https://github.com/Marktechpost/AI-Tutorial-Codes-Included/blob/main/AI%20Agents%20Codes/camel_multi_agent_research_pipeline_Marktechpost.ipynb) [Tutorial](https://www.marktechpost.com/2025/12/29/how-to-build-a-robust-multi-agent-pipeline-using-camel-with-planning-web-augmented-reasoning-critique-and-persistent-memory/)
