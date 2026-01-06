@@ -23,6 +23,8 @@
 
 ### Agentic AI and Agents
 
+▶ How to Design an Agentic AI Architecture with LangGraph and OpenAI Using Adaptive Deliberation, Memory Graphs, and Reflexion Loops [Codes](https://github.com/Marktechpost/AI-Tutorial-Codes-Included/blob/main/Agentic%20AI%20Memory/agentic_ai_with_langgraph_adaptive_memory_reflexion_Marktechpost.ipynb) [Tutorial](https://www.marktechpost.com/2026/01/06/how-to-design-an-agentic-ai-architecture-with-langgraph-and-openai-using-adaptive-deliberation-memory-graphs-and-reflexion-loops/)
+
 ▶ A Coding Guide to Design and Orchestrate Advanced ReAct-Based Multi-Agent Workflows with AgentScope and OpenAI [Codes](https://github.com/Marktechpost/AI-Tutorial-Codes-Included/blob/main/AI%20Agents%20Codes/agentscope_multi_agent_incident_response_Marktechpost.ipynb) [Tutorial](https://www.marktechpost.com/2026/01/04/a-coding-guide-to-design-and-orchestrate-advanced-react-based-multi-agent-workflows-with-agentscope-and-openai/)
 
 ▶ How to Build a Production-Ready Multi-Agent Incident Response System Using OpenAI Swarm and Tool-Augmented Agents [Codes](https://github.com/Marktechpost/AI-Tutorial-Codes-Included/blob/main/AI%20Agents%20Codes/openai_swarm_multi_agent_incident_response_Marktechpost.ipynb) [Tutorial](https://www.marktechpost.com/2026/01/03/how-to-build-a-production-ready-multi-agent-incident-response-system-using-openai-swarm-and-tool-augmented-agents/)
