@@ -227,6 +227,8 @@
 
 ### Machine Learning & Data Science
 
+▶ A Coding Implementation to Build a Unified Apache Beam Pipeline Demonstrating Batch and Stream Processing with Event-Time Windowing Using DirectRunner [Codes](https://github.com/Marktechpost/AI-Tutorial-Codes-Included/blob/main/Distributed%20Systems/apache_beam_batch_and_stream_windowing_Marktechpost.ipynb) [Tutorial](https://www.marktechpost.com/2026/01/07/a-coding-implementation-to-build-a-unified-apache-beam-pipeline-demonstrating-batch-and-stream-processing-with-event-time-windowing-using-directrunner/)
+
 ▶ Implementing Softmax From Scratch: Avoiding the Numerical Stability Trap [Codes](https://github.com/Marktechpost/AI-Tutorial-Codes-Included/blob/main/Data%20Science/Softmax.ipynb) [Tutorial](https://www.marktechpost.com/2026/01/06/implementing-softmax-from-scratch-avoiding-the-numerical-stability-trap/)
 
 ▶ A Coding Implementation of an OpenAI-Assisted Privacy-Preserving Federated Fraud Detection System from Scratch Using Lightweight PyTorch Simulations [Codes](https://github.com/Marktechpost/AI-Tutorial-Codes-Included/blob/main/Federated%20Learning/openai_federated_fraud_detection_from_scratch_Marktechpost.ipynb) [Tutorial](https://www.marktechpost.com/2025/12/30/a-coding-implementation-of-an-openai-assisted-privacy-preserving-federated-fraud-detection-system-from-scratch-using-lightweight-pytorch-simulations/)
