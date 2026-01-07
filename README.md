@@ -227,6 +227,8 @@
 
 ### Machine Learning & Data Science
 
+▶ Implementing Softmax From Scratch: Avoiding the Numerical Stability Trap [Codes](https://github.com/Marktechpost/AI-Tutorial-Codes-Included/blob/main/Data%20Science/Softmax.ipynb) [Tutorial](https://www.marktechpost.com/2026/01/06/implementing-softmax-from-scratch-avoiding-the-numerical-stability-trap/)
+
 ▶ A Coding Implementation of an OpenAI-Assisted Privacy-Preserving Federated Fraud Detection System from Scratch Using Lightweight PyTorch Simulations [Codes](https://github.com/Marktechpost/AI-Tutorial-Codes-Included/blob/main/Federated%20Learning/openai_federated_fraud_detection_from_scratch_Marktechpost.ipynb) [Tutorial](https://www.marktechpost.com/2025/12/30/a-coding-implementation-of-an-openai-assisted-privacy-preserving-federated-fraud-detection-system-from-scratch-using-lightweight-pytorch-simulations/)
 
 ▶ A Coding Implementation on Building Self-Organizing Zettelkasten Knowledge Graphs and Sleep-Consolidation Mechanisms [Codes](https://github.com/Marktechpost/AI-Tutorial-Codes-Included/blob/main/Agentic%20AI%20Memory/Agentic_Zettelkasten_Memory_Martechpost.ipynb) [Tutorial](https://www.marktechpost.com/2025/12/25/a-coding-implementation-on-building-self-organizing-zettelkasten-knowledge-graphs-and-sleep-consolidation-mechanisms/)
