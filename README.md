@@ -17,6 +17,7 @@
 * [Voice AI](https://github.com/Marktechpost/AI-Tutorial-Codes-Included/blob/main/README.md#voice-ai)
 * [RAG](https://github.com/Marktechpost/AI-Tutorial-Codes-Included/blob/main/README.md#rag)
 * [Computer Vision](https://github.com/Marktechpost/AI-Tutorial-Codes-Included/blob/main/README.md#computer-vision)
+* [Security] 
 
 ---
   
@@ -358,4 +359,9 @@
 ### Computer Vision
 
 ▶ A Coding Guide to Implement Advanced Hyperparameter Optimization with Optuna using Pruning Multi-Objective Search, Early Stopping, and Deep Visual Analysis [Codes](https://github.com/Marktechpost/AI-Tutorial-Codes-Included/blob/main/Computer%20Vision/optuna_advanced_hpo_marktechpost.py) [Tutorial](https://www.marktechpost.com/2025/11/17/a-coding-guide-to-implement-advanced-hyperparameter-optimization-with-optuna-using-pruning-multi-objective-search-early-stopping-and-deep-visual-analysis/)
+
+
+### Security
+
+▶ A Coding Guide to Demonstrate Targeted Data Poisoning Attacks in Deep Learning by Label Flipping on CIFAR-10 with PyTorch [Codes](https://github.com/Marktechpost/AI-Tutorial-Codes-Included/blob/main/Security/targeted_data_poisoning_label_flipping_cifar10_pytorch_Marktechpost.ipynb) [Tutorial](https://www.marktechpost.com/2026/01/11/a-coding-guide-to-demonstrate-targeted-data-poisoning-attacks-in-deep-learning-by-label-flipping-on-cifar-10-with-pytorch/)
 
