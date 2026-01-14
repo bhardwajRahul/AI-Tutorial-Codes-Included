@@ -265,6 +265,8 @@
 
 ### MCPs Guides 
 
+▶ How to Build a Stateless, Secure, and Asynchronous MCP-Style Protocol for Scalable Agent Workflows [Codes](https://github.com/Marktechpost/AI-Tutorial-Codes-Included/blob/main/MCP%20Codes/stateless_async_mcp_protocol_demo_Marktechpost.ipynb) [Tutorial](https://www.marktechpost.com/2026/01/14/how-to-build-a-stateless-secure-and-asynchronous-mcp-style-protocol-for-scalable-agent-workflows/)
+
 ▶ An Implementation to Build Dynamic AI Systems with the Model Context Protocol (MCP) for Real-Time Resource and Tool Integration [Codes](https://github.com/Marktechpost/AI-Tutorial-Codes-Included/blob/main/MCP%20Codes/Model_Context_Protocol_Integration_Marktechpost.ipynb) [Tutorial](https://www.marktechpost.com/2025/10/19/an-implementation-to-build-dynamic-ai-systems-with-the-model-context-protocol-mcp-for-real-time-resource-and-tool-integration/)
 
 ▶ Implementing OAuth 2.1 for MCP Servers with Scalekit: A Step-by-Step Coding Tutorial [Codes](https://github.com/Marktechpost/AI-Tutorial-Codes-Included/tree/main/OAuth%202.1%20for%20MCP%20Servers) [Tutorial](https://www.marktechpost.com/2025/09/01/implementing-oauth-2-1-for-mcp-servers-with-scalekit-a-step-by-step-coding-tutorial/)
