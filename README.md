@@ -24,6 +24,8 @@
 
 ### Agentic AI and Agents
 
+▶ How to Build a Self-Evaluating Agentic AI System with LlamaIndex and OpenAI Using Retrieval, Tool Use, and Automated Quality Checks [Codes](https://github.com/Marktechpost/AI-Tutorial-Codes-Included/blob/main/Agentic%20AI%20Codes/agentic_llamaindex_rag_self_evaluation_Marktechpost.ipynb) [Tutorial](https://www.marktechpost.com/2026/01/17/how-to-build-a-self-evaluating-agentic-ai-system-with-llamaindex-and-openai-using-retrieval-tool-use-and-automated-quality-checks/)
+
 ▶ How to Build a Safe, Autonomous Prior Authorization Agent for Healthcare Revenue Cycle Management with Human-in-the-Loop Controls [Codes](https://github.com/Marktechpost/AI-Tutorial-Codes-Included/blob/main/AI%20Agents%20Codes/autonomous_prior_auth_agent_healthcare_rcm_Marktechpost.ipynb) [Tutorial](https://www.marktechpost.com/2026/01/15/how-to-build-a-safe-autonomous-prior-authorization-agent-for-healthcare-revenue-cycle-management-with-human-in-the-loop-controls/)
 
 ▶ How to Design an Agentic AI Architecture with LangGraph and OpenAI Using Adaptive Deliberation, Memory Graphs, and Reflexion Loops [Codes](https://github.com/Marktechpost/AI-Tutorial-Codes-Included/blob/main/Agentic%20AI%20Memory/agentic_ai_with_langgraph_adaptive_memory_reflexion_Marktechpost.ipynb) [Tutorial](https://www.marktechpost.com/2026/01/06/how-to-design-an-agentic-ai-architecture-with-langgraph-and-openai-using-adaptive-deliberation-memory-graphs-and-reflexion-loops/)
