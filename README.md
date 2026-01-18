@@ -232,6 +232,8 @@
 
 ### Machine Learning & Data Science
 
+▶ A Coding Guide to Understanding How Retries Trigger Failure Cascades in RPC and Event-Driven Architectures [Codes](https://github.com/Marktechpost/AI-Tutorial-Codes-Included/blob/main/Distributed%20Systems/rpc_vs_event_driven_failure_dynamics_distributed_systems_Marktechpost.ipynb) [Tutorial](https://www.marktechpost.com/2026/01/18/a-coding-guide-to-understanding-how-retries-trigger-failure-cascades-in-rpc-and-event-driven-architectures/)
+
 ▶ How to Build Portable, In-Database Feature Engineering Pipelines with Ibis Using Lazy Python APIs and DuckDB Execution [Codes](https://github.com/Marktechpost/AI-Tutorial-Codes-Included/blob/main/Data%20Science/ibis_portable_in_database_feature_engineering_Marktechpost.ipynb) [Tutorial](https://www.marktechpost.com/2026/01/09/how-to-build-portable-in-database-feature-engineering-pipelines-with-ibis-using-lazy-python-apis-and-duckdb-execution/)
 
 ▶ A Coding Implementation to Build a Unified Apache Beam Pipeline Demonstrating Batch and Stream Processing with Event-Time Windowing Using DirectRunner [Codes](https://github.com/Marktechpost/AI-Tutorial-Codes-Included/blob/main/Distributed%20Systems/apache_beam_batch_and_stream_windowing_Marktechpost.ipynb) [Tutorial](https://www.marktechpost.com/2026/01/07/a-coding-implementation-to-build-a-unified-apache-beam-pipeline-demonstrating-batch-and-stream-processing-with-event-time-windowing-using-directrunner/)
