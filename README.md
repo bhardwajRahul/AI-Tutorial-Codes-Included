@@ -341,6 +341,8 @@
 
 ### Voice AI
 
+▶ How to Design a Fully Streaming Voice Agent with End-to-End Latency Budgets, Incremental ASR, LLM Streaming, and Real-Time TTS [Codes](https://github.com/Marktechpost/AI-Tutorial-Codes-Included/blob/main/Voice%20AI/streaming_voice_agent_latency_budgets_end_to_end_Marktechpost.ipynb) [Tutorial](https://www.marktechpost.com/2026/01/19/how-to-design-a-fully-streaming-voice-agent-with-end-to-end-latency-budgets-incremental-asr-llm-streaming-and-real-time-tts/)
+
 ▶ How to Build an Agentic Voice AI Assistant that Understands, Reasons, Plans, and Responds through Autonomous Multi-Step Intelligence [Codes](https://github.com/Marktechpost/AI-Tutorial-Codes-Included/blob/main/Voice%20AI/agentic_voice_ai_autonomous_assistant_Marktechpost.ipynb) [Tutorial](https://www.marktechpost.com/2025/11/08/how-to-build-an-agentic-voice-ai-assistant-that-understands-reasons-plans-and-responds-through-autonomous-multi-step-intelligence/)
 
 ▶ How to Build an Advanced Voice AI Pipeline with WhisperX for Transcription, Alignment, Analysis, and Export? [Codes](https://github.com/Marktechpost/AI-Tutorial-Codes-Included/blob/main/Voice%20AI/voice_ai_whisperx_advanced_tutorial_Marktechpost.ipynb) [Tutorial](https://www.marktechpost.com/2025/10/02/how-to-build-an-advanced-voice-ai-pipeline-with-whisperx-for-transcription-alignment-analysis-and-export/)
