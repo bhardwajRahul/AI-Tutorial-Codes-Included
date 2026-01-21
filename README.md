@@ -234,6 +234,8 @@
 
 ### Machine Learning & Data Science
 
+▶ How AutoGluon Enables Modern AutoML Pipelines for Production-Grade Tabular Models with Ensembling and Distillation [Codes](https://github.com/Marktechpost/AI-Tutorial-Codes-Included/blob/main/ML%20Project%20Codes/autogluon_end_to_end_tabular_modeling_and_deployment_Marktechpost.ipynb) [Tutorial](https://www.marktechpost.com/2026/01/21/how-autogluon-enables-modern-automl-pipelines-for-production-grade-tabular-models-with-ensembling-and-distillation/)
+
 ▶ A Coding Guide to Understanding How Retries Trigger Failure Cascades in RPC and Event-Driven Architectures [Codes](https://github.com/Marktechpost/AI-Tutorial-Codes-Included/blob/main/Distributed%20Systems/rpc_vs_event_driven_failure_dynamics_distributed_systems_Marktechpost.ipynb) [Tutorial](https://www.marktechpost.com/2026/01/18/a-coding-guide-to-understanding-how-retries-trigger-failure-cascades-in-rpc-and-event-driven-architectures/)
 
 ▶ How to Build Portable, In-Database Feature Engineering Pipelines with Ibis Using Lazy Python APIs and DuckDB Execution [Codes](https://github.com/Marktechpost/AI-Tutorial-Codes-Included/blob/main/Data%20Science/ibis_portable_in_database_feature_engineering_Marktechpost.ipynb) [Tutorial](https://www.marktechpost.com/2026/01/09/how-to-build-portable-in-database-feature-engineering-pipelines-with-ibis-using-lazy-python-apis-and-duckdb-execution/)
