@@ -24,6 +24,8 @@
 
 ### Agentic AI and Agents
 
+▶ How to Design Self-Reflective Dual-Agent Governance Systems with Constitutional AI for Secure and Compliant Financial Operations [Codes](https://github.com/Marktechpost/AI-Tutorial-Codes-Included/blob/main/Agentic%20AI%20Codes/constitutional_dual_agent_financial_governance_Marktechpost.ipynb) [Tutorial](https://www.marktechpost.com/2026/01/28/how-to-design-self-reflective-dual-agent-governance-systems-with-constitutional-ai-for-secure-and-compliant-financial-operations/)
+
 ▶ How a Haystack-Powered Multi-Agent System Detects Incidents, Investigates Metrics and Logs, and Produces Production-Grade Incident Reviews End-to-End [Codes](https://github.com/Marktechpost/AI-Tutorial-Codes-Included/blob/main/Agentic%20AI%20Codes/multi_agent_incident_response_haystack_Marktechpost.ipynb) [Tutorial](https://www.marktechpost.com/2026/01/26/how-a-haystack-powered-multi-agent-system-detects-incidents-investigates-metrics-and-logs-and-produces-production-grade-incident-reviews-end-to-end/)
 
 ▶ How an AI Agent Chooses What to Do Under Tokens, Latency, and Tool-Call Budget Constraints? [Codes](https://github.com/Marktechpost/AI-Tutorial-Codes-Included/blob/main/AI%20Agents%20Codes/cost_aware_planning_agent_budget_constrained_Marktechpost.ipynb) [Tutorial](https://www.marktechpost.com/2026/01/23/how-an-ai-agent-chooses-what-to-do-under-tokens-latency-and-tool-call-budget-constraints/)
