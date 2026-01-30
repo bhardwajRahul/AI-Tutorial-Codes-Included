@@ -240,6 +240,8 @@
 
 ### Machine Learning & Data Science
 
+▶ A Coding Deep Dive into Differentiable Computer Vision with Kornia Using Geometry Optimization, LoFTR Matching, and GPU Augmentations [Codes](https://github.com/Marktechpost/AI-Tutorial-Codes-Included/blob/main/Computer%20Vision/kornia_differentiable_vision_loftr_ransac_Marktechpost.ipynb) [Tutorial](https://www.marktechpost.com/2026/01/29/a-coding-deep-dive-into-differentiable-computer-vision-with-kornia-using-geometry-optimization-loftr-matching-and-gpu-augmentations/)
+
 ▶ How Machine Learning and Semantic Embeddings Reorder CVE Vulnerabilities Beyond Raw CVSS Scores [Codes](https://github.com/Marktechpost/AI-Tutorial-Codes-Included/blob/main/Security/ai_assisted_vulnerability_prioritization_ml_nlp_marktechpost.py) [Tutorial](https://www.marktechpost.com/2026/01/23/how-machine-learning-and-semantic-embeddings-reorder-cve-vulnerabilities-beyond-raw-cvss-scores/)
 
 ▶ How AutoGluon Enables Modern AutoML Pipelines for Production-Grade Tabular Models with Ensembling and Distillation [Codes](https://github.com/Marktechpost/AI-Tutorial-Codes-Included/blob/main/ML%20Project%20Codes/autogluon_end_to_end_tabular_modeling_and_deployment_Marktechpost.ipynb) [Tutorial](https://www.marktechpost.com/2026/01/21/how-autogluon-enables-modern-automl-pipelines-for-production-grade-tabular-models-with-ensembling-and-distillation/)
