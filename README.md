@@ -240,6 +240,8 @@
 
 ### Machine Learning & Data Science
 
+▶ A Coding and Experimental Analysis of Decentralized Federated Learning with Gossip Protocols and Differential Privacy [Codes](https://github.com/Marktechpost/AI-Tutorial-Codes-Included/blob/main/Distributed%20Systems/decentralized_gossip_federated_learning_with_differential_privacy_Marktechpost.ipynb) [Tutorial](https://www.marktechpost.com/2026/02/01/a-coding-and-experimental-analysis-of-decentralized-federated-learning-with-gossip-protocols-and-differential-privacy/)
+
 ▶ A Coding Implementation to Training, Optimizing, Evaluating, and Interpreting Knowledge Graph Embeddings with PyKEENs [Codes](https://github.com/Marktechpost/AI-Tutorial-Codes-Included/blob/main/ML%20Project%20Codes/advanced_pykeen_knowledge_graph_embeddings_marktechpost.py) [Tutorial](https://www.marktechpost.com/2026/01/30/a-coding-implementation-to-training-optimizing-evaluating-and-interpreting-knowledge-graph-embeddings-with-pykeen/)
 
 ▶ A Coding Deep Dive into Differentiable Computer Vision with Kornia Using Geometry Optimization, LoFTR Matching, and GPU Augmentations [Codes](https://github.com/Marktechpost/AI-Tutorial-Codes-Included/blob/main/Computer%20Vision/kornia_differentiable_vision_loftr_ransac_Marktechpost.ipynb) [Tutorial](https://www.marktechpost.com/2026/01/29/a-coding-deep-dive-into-differentiable-computer-vision-with-kornia-using-geometry-optimization-loftr-matching-and-gpu-augmentations/)
