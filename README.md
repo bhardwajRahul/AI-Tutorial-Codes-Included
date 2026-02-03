@@ -397,6 +397,8 @@
 
 ### Security
 
+▶ How to Build Multi-Layered LLM Safety Filters to Defend Against Adaptive, Paraphrased, and Adversarial Prompt Attacks [Codes](https://github.com/Marktechpost/AI-Tutorial-Codes-Included/blob/main/Adversarial%20Attacks/robust_llm_safety_filters_adaptive_attack_defense_Marktechpost.ipynb) [Tutorial](https://www.marktechpost.com/2026/02/02/how-to-build-multi-layered-llm-safety-filters-to-defend-against-adaptive-paraphrased-and-adversarial-prompt-attacks/)
+
 ▶ A Coding Guide to Demonstrate Targeted Data Poisoning Attacks in Deep Learning by Label Flipping on CIFAR-10 with PyTorch [Codes](https://github.com/Marktechpost/AI-Tutorial-Codes-Included/blob/main/Security/targeted_data_poisoning_label_flipping_cifar10_pytorch_Marktechpost.ipynb) [Tutorial](https://www.marktechpost.com/2026/01/11/a-coding-guide-to-demonstrate-targeted-data-poisoning-attacks-in-deep-learning-by-label-flipping-on-cifar-10-with-pytorch/)
 
 ▶ How to Build a Multi-Turn Crescendo Red-Teaming Pipeline to Evaluate and Stress-Test LLM Safety Using Garak [Codes](https://github.com/Marktechpost/AI-Tutorial-Codes-Included/blob/main/Adversarial%20Attacks/multiturn_crescendo_llm_safety_evaluation_with_garak_Marktechpost.ipynb) [Tutorial](https://www.marktechpost.com/2026/01/13/how-to-build-a-multi-turn-crescendo-red-teaming-pipeline-to-evaluate-and-stress-test-llm-safety-using-garak/)
