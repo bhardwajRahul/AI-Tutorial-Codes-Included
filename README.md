@@ -247,6 +247,8 @@
 
 ### Machine Learning & Data Science
 
+▶ A Coding, Data-Driven Guide to Measuring, Visualizing, and Enforcing Cognitive Complexity in Python Projects Using complexipy [Codes](https://github.com/Marktechpost/AI-Tutorial-Codes-Included/blob/main/Data%20Science/cognitive_complexity_auditing_with_complexipy_Marktechpost.ipynb) [Tutorial](https://www.marktechpost.com/2026/02/06/a-coding-data-driven-guide-to-measuring-visualizing-and-enforcing-cognitive-complexity-in-python-projects-using-complexipy/)
+
 ▶ How to Build Advanced Quantum Algorithms Using Qrisp with Grover Search, Quantum Phase Estimation, and QAOA [Codes](https://github.com/Marktechpost/AI-Tutorial-Codes-Included/blob/main/Quantum%20Computing/Qrisp_Quantum_Algorithms_Grover_QPE_QAOA_Marktechpost.ipynb) [Tutorial](https://www.marktechpost.com/2026/02/03/how-to-build-advanced-quantum-algorithms-using-qrisp-with-grover-search-quantum-phase-estimation-and-qaoa/)
 
 ▶ A Coding and Experimental Analysis of Decentralized Federated Learning with Gossip Protocols and Differential Privacy [Codes](https://github.com/Marktechpost/AI-Tutorial-Codes-Included/blob/main/Distributed%20Systems/decentralized_gossip_federated_learning_with_differential_privacy_Marktechpost.ipynb) [Tutorial](https://www.marktechpost.com/2026/02/01/a-coding-and-experimental-analysis-of-decentralized-federated-learning-with-gossip-protocols-and-differential-privacy/)
