@@ -249,6 +249,8 @@
 
 ### Machine Learning & Data Science
 
+▶ How to Build a Privacy-Preserving Federated Pipeline to Fine-Tune Large Language Models with LoRA Using Flower and PEFT [Codes](https://github.com/Marktechpost/AI-Tutorial-Codes-Included/blob/main/Federated%20Learning/federated_lora_llm_finetuning_flower_marktechpost.py) [Tutorial](https://www.marktechpost.com/2026/02/09/how-to-build-a-privacy-preserving-federated-pipeline-to-fine-tune-large-language-models-with-lora-using-flower-and-peft/)
+
 ▶ How to Design Production-Grade Mock Data Pipelines Using Polyfactory with Dataclasses, Pydantic, Attrs, and Nested Models [Codes](https://github.com/Marktechpost/AI-Tutorial-Codes-Included/blob/main/Data%20Science/polyfactory_production_grade_mock_data_generation_Marktechpost.ipynb) [Tutorial](https://www.marktechpost.com/2026/02/08/how-to-design-production-grade-mock-data-pipelines-using-polyfactory-with-dataclasses-pydantic-attrs-and-nested-models/)
 
 ▶ A Coding, Data-Driven Guide to Measuring, Visualizing, and Enforcing Cognitive Complexity in Python Projects Using complexipy [Codes](https://github.com/Marktechpost/AI-Tutorial-Codes-Included/blob/main/Data%20Science/cognitive_complexity_auditing_with_complexipy_Marktechpost.ipynb) [Tutorial](https://www.marktechpost.com/2026/02/06/a-coding-data-driven-guide-to-measuring-visualizing-and-enforcing-cognitive-complexity-in-python-projects-using-complexipy/)
