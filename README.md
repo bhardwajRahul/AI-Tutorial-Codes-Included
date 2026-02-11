@@ -24,6 +24,8 @@
 
 ### Agentic AI and Agents
 
+▶ How to Build an Atomic-Agents RAG Pipeline with Typed Schemas, Dynamic Context Injection, and Agent Chaining [Codes](https://github.com/Marktechpost/AI-Tutorial-Codes-Included/blob/main/Agentic%20AI%20Codes/atomic_agents_advanced_rag_pipeline_Marktechpost.ipynb) [Tutorial](https://www.marktechpost.com/2026/02/11/how-to-build-an-atomic-agents-rag-pipeline-with-typed-schemas-dynamic-context-injection-and-agent-chaining/)
+
 ▶ How to Build a Production-Grade Agentic AI System with Hybrid Retrieval, Provenance-First Citations, Repair Loops, and Episodic Memory [Codes](https://github.com/Marktechpost/AI-Tutorial-Codes-Included/blob/main/Agentic%20AI%20Codes/Ultra_Agentic_AI_Hybrid_Retrieval_Guardrails_Episodic_Memory_Marktechpost.ipynb) [Tutorial](https://www.marktechpost.com/2026/02/06/how-to-build-a-production-grade-agentic-ai-system-with-hybrid-retrieval-provenance-first-citations-repair-loops-and-episodic-memory/)
 
 ▶ How to Build Efficient Agentic Reasoning Systems by Dynamically Pruning Multiple Chain-of-Thought Paths Without Losing Accuracy [Codes](https://github.com/Marktechpost/AI-Tutorial-Codes-Included/blob/main/Agentic%20AI%20Codes/agentic_chain_of_thought_pruning_dynamic_reasoning_Marktechpost.ipynb) [Tutorial](https://www.marktechpost.com/2026/02/04/how-to-build-efficient-agentic-reasoning-systems-by-dynamically-pruning-multiple-chain-of-thought-paths-without-losing-accuracy/)
