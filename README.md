@@ -328,6 +328,8 @@
 
 ### LLMs,ML and Other AI Section
 
+▶ How to Build a Matryoshka-Optimized Sentence Embedding Model for Ultra-Fast Retrieval with 64-Dimension Truncation [Codes](https://github.com/Marktechpost/AI-Tutorial-Codes-Included/blob/main/LLM%20Projects/matryoshka_representation_learning_sentencetransformers_msmarco_marktechpost.py) [Tutorial](https://www.marktechpost.com/2026/02/11/how-to-build-a-matryoshka-optimized-sentence-embedding-model-for-ultra-fast-retrieval-with-64-dimension-truncation/)
+
 ▶ A Coding Implementation to Establish Rigorous Prompt Versioning and Regression Testing Workflows for Large Language Models using MLflow [Codes](https://github.com/Marktechpost/AI-Tutorial-Codes-Included/blob/main/MLFlow%20for%20LLM%20Evaluation/Prompt_Versioning_and_Regression_Testing_for_LLMs_with_MLflow_Marktechpost.ipynb) [Tutorial](https://www.marktechpost.com/2026/02/08/a-coding-implementation-to-establish-rigorous-prompt-versioning-and-regression-testing-workflows-for-large-language-models-using-mlflow/)
 
 ▶ A Coding Implementation to Automating LLM Quality Assurance with DeepEval, Custom Retrievers, and LLM-as-a-Judge Metrics [Codes](https://github.com/Marktechpost/AI-Tutorial-Codes-Included/blob/main/LLM%20Evaluation/rag_deepeval_quality_benchmarking_marktechpost.py) [Tutorial](https://www.marktechpost.com/2026/01/25/a-coding-implementation-to-automating-llm-quality-assurance-with-deepeval-custom-retrievers-and-llm-as-a-judge-metrics/)
