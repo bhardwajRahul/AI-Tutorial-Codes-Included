@@ -251,6 +251,8 @@
 
 ### Machine Learning & Data Science
 
+▶ [In-Depth Guide] The Complete CTGAN + SDV Pipeline for High-Fidelity Synthetic Data [Codes](https://github.com/Marktechpost/AI-Tutorial-Codes-Included/blob/main/Data%20Science/ctgan_sdv_synthetic_data_pipeline_marktechpost.py) [Tutorial](https://www.marktechpost.com/2026/02/13/in-depth-guide-the-complete-ctgan-sdv-pipeline-for-high-fidelity-synthetic-data/)
+
 ▶ How to Build a Privacy-Preserving Federated Pipeline to Fine-Tune Large Language Models with LoRA Using Flower and PEFT [Codes](https://github.com/Marktechpost/AI-Tutorial-Codes-Included/blob/main/Federated%20Learning/federated_lora_llm_finetuning_flower_marktechpost.py) [Tutorial](https://www.marktechpost.com/2026/02/09/how-to-build-a-privacy-preserving-federated-pipeline-to-fine-tune-large-language-models-with-lora-using-flower-and-peft/)
 
 ▶ How to Design Production-Grade Mock Data Pipelines Using Polyfactory with Dataclasses, Pydantic, Attrs, and Nested Models [Codes](https://github.com/Marktechpost/AI-Tutorial-Codes-Included/blob/main/Data%20Science/polyfactory_production_grade_mock_data_generation_Marktechpost.ipynb) [Tutorial](https://www.marktechpost.com/2026/02/08/how-to-design-production-grade-mock-data-pipelines-using-polyfactory-with-dataclasses-pydantic-attrs-and-nested-models/)
