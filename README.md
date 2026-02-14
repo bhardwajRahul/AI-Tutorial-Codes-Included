@@ -24,6 +24,8 @@
 
 ### Agentic AI and Agents
 
+▶ How to Build a Self-Organizing Agent Memory System for Long-Term AI Reasoning [Codes](https://github.com/Marktechpost/AI-Tutorial-Codes-Included/blob/main/Agentic%20AI%20Memory/self_organizing_agent_memory_long_horizon_reasoning_Marktechpost.ipynb) [Tutorial](https://www.marktechpost.com/2026/02/14/how-to-build-a-self-organizing-agent-memory-system-for-long-term-ai-reasoning/)
+
 ▶ How to Build an Atomic-Agents RAG Pipeline with Typed Schemas, Dynamic Context Injection, and Agent Chaining [Codes](https://github.com/Marktechpost/AI-Tutorial-Codes-Included/blob/main/Agentic%20AI%20Codes/atomic_agents_advanced_rag_pipeline_Marktechpost.ipynb) [Tutorial](https://www.marktechpost.com/2026/02/11/how-to-build-an-atomic-agents-rag-pipeline-with-typed-schemas-dynamic-context-injection-and-agent-chaining/)
 
 ▶ How to Build a Production-Grade Agentic AI System with Hybrid Retrieval, Provenance-First Citations, Repair Loops, and Episodic Memory [Codes](https://github.com/Marktechpost/AI-Tutorial-Codes-Included/blob/main/Agentic%20AI%20Codes/Ultra_Agentic_AI_Hybrid_Retrieval_Guardrails_Episodic_Memory_Marktechpost.ipynb) [Tutorial](https://www.marktechpost.com/2026/02/06/how-to-build-a-production-grade-agentic-ai-system-with-hybrid-retrieval-provenance-first-citations-repair-loops-and-episodic-memory/)
