@@ -24,6 +24,8 @@
 
 ### Agentic AI and Agents
 
+▶ A Coding Implementation to Design a Stateful Tutor Agent with Long-Term Memory, Semantic Recall, and Adaptive Practice Generation [Codes](https://github.com/Marktechpost/AI-Tutorial-Codes-Included/blob/main/Agentic%20AI%20Memory/stateful_tutor_long_term_memory_agent_marktechpost.py) [Tutorial](https://www.marktechpost.com/2026/02/15/a-coding-implementation-to-design-a-stateful-tutor-agent-with-long-term-memory-semantic-recall-and-adaptive-practice-generation/)
+
 ▶ How to Build a Self-Organizing Agent Memory System for Long-Term AI Reasoning [Codes](https://github.com/Marktechpost/AI-Tutorial-Codes-Included/blob/main/Agentic%20AI%20Memory/self_organizing_agent_memory_long_horizon_reasoning_Marktechpost.ipynb) [Tutorial](https://www.marktechpost.com/2026/02/14/how-to-build-a-self-organizing-agent-memory-system-for-long-term-ai-reasoning/)
 
 ▶ How to Build an Atomic-Agents RAG Pipeline with Typed Schemas, Dynamic Context Injection, and Agent Chaining [Codes](https://github.com/Marktechpost/AI-Tutorial-Codes-Included/blob/main/Agentic%20AI%20Codes/atomic_agents_advanced_rag_pipeline_Marktechpost.ipynb) [Tutorial](https://www.marktechpost.com/2026/02/11/how-to-build-an-atomic-agents-rag-pipeline-with-typed-schemas-dynamic-context-injection-and-agent-chaining/)
