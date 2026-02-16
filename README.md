@@ -24,6 +24,8 @@
 
 ### Agentic AI and Agents
 
+▶ How to Build Human-in-the-Loop Plan-and-Execute AI Agents with Explicit User Approval Using LangGraph and Streamlit [Codes](https://github.com/Marktechpost/AI-Tutorial-Codes-Included/blob/main/AI%20Agents%20Codes/human_in_the_loop_plan_execute_agent_langgraph_streamlit_Marktechpost.ipynb) [Tutorial](https://www.marktechpost.com/2026/02/16/how-to-build-human-in-the-loop-plan-and-execute-ai-agents-with-explicit-user-approval-using-langgraph-and-streamlit/)
+
 ▶ A Coding Implementation to Design a Stateful Tutor Agent with Long-Term Memory, Semantic Recall, and Adaptive Practice Generation [Codes](https://github.com/Marktechpost/AI-Tutorial-Codes-Included/blob/main/Agentic%20AI%20Memory/stateful_tutor_long_term_memory_agent_marktechpost.py) [Tutorial](https://www.marktechpost.com/2026/02/15/a-coding-implementation-to-design-a-stateful-tutor-agent-with-long-term-memory-semantic-recall-and-adaptive-practice-generation/)
 
 ▶ How to Build a Self-Organizing Agent Memory System for Long-Term AI Reasoning [Codes](https://github.com/Marktechpost/AI-Tutorial-Codes-Included/blob/main/Agentic%20AI%20Memory/self_organizing_agent_memory_long_horizon_reasoning_Marktechpost.ipynb) [Tutorial](https://www.marktechpost.com/2026/02/14/how-to-build-a-self-organizing-agent-memory-system-for-long-term-ai-reasoning/)
