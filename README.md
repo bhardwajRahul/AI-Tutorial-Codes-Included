@@ -425,6 +425,8 @@
 
 ### Computer Vision
 
+▶ [Tutorial] Building a Visual Document Retrieval Pipeline with ColPali and Late Interaction Scoring [Codes](https://github.com/Marktechpost/AI-Tutorial-Codes-Included/blob/main/Computer%20Vision/colpali_visual_retrieval_marktechpost.py) [Tutorial](https://www.marktechpost.com/2026/02/18/tutorial-building-a-visual-document-retrieval-pipeline-with-colpali-and-late-interaction-scoring/)
+
 ▶ A Coding Guide to Implement Advanced Hyperparameter Optimization with Optuna using Pruning Multi-Objective Search, Early Stopping, and Deep Visual Analysis [Codes](https://github.com/Marktechpost/AI-Tutorial-Codes-Included/blob/main/Computer%20Vision/optuna_advanced_hpo_marktechpost.py) [Tutorial](https://www.marktechpost.com/2025/11/17/a-coding-guide-to-implement-advanced-hyperparameter-optimization-with-optuna-using-pruning-multi-objective-search-early-stopping-and-deep-visual-analysis/)
 
 
