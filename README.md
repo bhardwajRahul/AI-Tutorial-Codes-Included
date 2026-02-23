@@ -26,6 +26,8 @@
 
 
 
+▶ How to Build a Production-Grade Customer Support Automation Pipeline with Griptape Using Deterministic Tools and Agentic Reasoning [Codes]([https://github.com/Marktechpost/AI-Tutorial-Codes-Included/blob/main/AI%20Agents%20Codes/swiss_army_knife_research_agent_tool_using_ai_marktechpost.py](https://github.com/Marktechpost/AI-Tutorial-Codes-Included/blob/main/Agentic%20Workflows/griptape_customer_support_automation_pipeline_Marktechpost.ipynb)) [Tutorial](https://www.marktechpost.com/2026/02/23/how-to-build-a-production-grade-customer-support-automation-pipeline-with-griptape-using-deterministic-tools-and-agentic-reasoning/)
+
 ▶ How to Design a Swiss Army Knife Research Agent with Tool-Using AI, Web Search, PDF Analysis, Vision, and Automated Reporting [Codes](https://github.com/Marktechpost/AI-Tutorial-Codes-Included/blob/main/AI%20Agents%20Codes/swiss_army_knife_research_agent_tool_using_ai_marktechpost.py) [Tutorial](https://www.marktechpost.com/2026/02/20/how-to-design-a-swiss-army-knife-research-agent-with-tool-using-ai-web-search-pdf-analysis-vision-and-automated-reporting/)
 
 ▶ How to Design an Agentic Workflow for Tool-Driven Route Optimization with Deterministic Computation and Structured Outputs [Codes](https://github.com/Marktechpost/AI-Tutorial-Codes-Included/blob/main/Agentic%20Workflows/agentic_workflow_tool_driven_route_optimization_Marktechpost.ipynb) [Tutorial](https://www.marktechpost.com/2026/02/21/how-to-design-an-agentic-workflow-for-tool-driven-route-optimization-with-deterministic-computation-and-structured-outputs/)
