@@ -344,6 +344,8 @@
 
 ### LLMs,ML and Other AI Section
 
+▶ A Coding Guide to Instrumenting, Tracing, and Evaluating LLM Applications Using TruLens and OpenAI Models [Codes](https://github.com/Marktechpost/AI-Tutorial-Codes-Included/blob/main/LLM%20Evaluation/trulens_llm_instrumentation_feedback_evaluation_marktechpost.py) [Tutorial](https://www.marktechpost.com/2026/02/22/a-coding-guide-to-instrumenting-tracing-and-evaluating-llm-applications-using-trulens-and-openai-models/)
+
 ▶ How to Align Large Language Models with Human Preferences Using Direct Preference Optimization, QLoRA, and Ultra-Feedback [Codes](https://github.com/Marktechpost/AI-Tutorial-Codes-Included/blob/main/LLM%20Projects/dpo_alignment_qlora_ultrafeedback_marktechpost.py) [Tutorial](https://www.marktechpost.com/2026/02/12/how-to-align-large-language-models-with-human-preferences-using-direct-preference-optimization-qlora-and-ultra-feedback/)
 
 ▶ How to Build a Matryoshka-Optimized Sentence Embedding Model for Ultra-Fast Retrieval with 64-Dimension Truncation [Codes](https://github.com/Marktechpost/AI-Tutorial-Codes-Included/blob/main/LLM%20Projects/matryoshka_representation_learning_sentencetransformers_msmarco_marktechpost.py) [Tutorial](https://www.marktechpost.com/2026/02/11/how-to-build-a-matryoshka-optimized-sentence-embedding-model-for-ultra-fast-retrieval-with-64-dimension-truncation/)
