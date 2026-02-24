@@ -265,6 +265,8 @@
 
 ### Machine Learning & Data Science
 
+▶ A Coding Implementation to Simulate Practical Byzantine Fault Tolerance with Asyncio, Malicious Nodes, and Latency Analysis [Codes](https://github.com/Marktechpost/AI-Tutorial-Codes-Included/blob/main/Distributed%20Systems/pbft_asyncio_byzantine_latency_simulator_Marktechpost.ipynb) [Tutorial](https://www.marktechpost.com/2026/02/24/a-coding-implementation-to-simulate-practical-byzantine-fault-tolerance-with-asyncio-malicious-nodes-and-latency-analysis/)
+
 ▶ How to Build an Advanced, Interactive Exploratory Data Analysis Workflow Using PyGWalker and Feature-Engineered Data [Codes](https://github.com/Marktechpost/AI-Tutorial-Codes-Included/blob/main/Data%20Science/advanced_pygwalker_interactive_eda_marktechpost.py) [Tutorial](https://www.marktechpost.com/2026/02/17/how-to-build-an-advanced-interactive-exploratory-data-analysis-workflow-using-pygwalker-and-feature-engineered-data/)
 
 ▶ [In-Depth Guide] The Complete CTGAN + SDV Pipeline for High-Fidelity Synthetic Data [Codes](https://github.com/Marktechpost/AI-Tutorial-Codes-Included/blob/main/Data%20Science/ctgan_sdv_synthetic_data_pipeline_marktechpost.py) [Tutorial](https://www.marktechpost.com/2026/02/13/in-depth-guide-the-complete-ctgan-sdv-pipeline-for-high-fidelity-synthetic-data/)
