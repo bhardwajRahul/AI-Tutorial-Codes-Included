@@ -18,6 +18,7 @@
 * [RAG](https://github.com/Marktechpost/AI-Tutorial-Codes-Included/blob/main/README.md#rag)
 * [Computer Vision](https://github.com/Marktechpost/AI-Tutorial-Codes-Included/blob/main/README.md#computer-vision)
 * [Security](https://github.com/Marktechpost/AI-Tutorial-Codes-Included/blob/main/README.md#security)
+* [AI Infrastructure](https://github.com/Marktechpost/AI-Tutorial-Codes-Included/blob/main/README.md#security)
 
 ---
   
@@ -449,4 +450,9 @@
 ▶ A Coding Guide to Demonstrate Targeted Data Poisoning Attacks in Deep Learning by Label Flipping on CIFAR-10 with PyTorch [Codes](https://github.com/Marktechpost/AI-Tutorial-Codes-Included/blob/main/Security/targeted_data_poisoning_label_flipping_cifar10_pytorch_Marktechpost.ipynb) [Tutorial](https://www.marktechpost.com/2026/01/11/a-coding-guide-to-demonstrate-targeted-data-poisoning-attacks-in-deep-learning-by-label-flipping-on-cifar-10-with-pytorch/)
 
 ▶ How to Build a Multi-Turn Crescendo Red-Teaming Pipeline to Evaluate and Stress-Test LLM Safety Using Garak [Codes](https://github.com/Marktechpost/AI-Tutorial-Codes-Included/blob/main/Adversarial%20Attacks/multiturn_crescendo_llm_safety_evaluation_with_garak_Marktechpost.ipynb) [Tutorial](https://www.marktechpost.com/2026/01/13/how-to-build-a-multi-turn-crescendo-red-teaming-pipeline-to-evaluate-and-stress-test-llm-safety-using-garak/)
+
+
+### AI Infrastructure
+
+▶ How to Build an Elastic Vector Database with Consistent Hashing, Sharding, and Live Ring Visualization for RAG Systems [Codes](https://github.com/Marktechpost/AI-Tutorial-Codes-Included/blob/main/Distributed%20Systems/elastic_vector_db_consistent_hashing_rag_marktechpost.py) [Tutorial](https://www.marktechpost.com/2026/02/25/how-to-build-an-elastic-vector-database-with-consistent-hashing-sharding-and-live-ring-visualization-for-rag-systems/)
 
