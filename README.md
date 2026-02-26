@@ -18,7 +18,7 @@
 * [RAG](https://github.com/Marktechpost/AI-Tutorial-Codes-Included/blob/main/README.md#rag)
 * [Computer Vision](https://github.com/Marktechpost/AI-Tutorial-Codes-Included/blob/main/README.md#computer-vision)
 * [Security](https://github.com/Marktechpost/AI-Tutorial-Codes-Included/blob/main/README.md#security)
-* [AI Infrastructure](https://github.com/Marktechpost/AI-Tutorial-Codes-Included/blob/main/README.md#security)
+* [AI Infrastructure](https://github.com/Marktechpost/AI-Tutorial-Codes-Included/blob/main/README.md#ai-infrastructure)
 
 ---
   
