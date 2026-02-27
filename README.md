@@ -266,6 +266,8 @@
 
 ### Machine Learning & Data Science
 
+▶ How to Build Interactive Geospatial Dashboards Using Folium with Heatmaps, Choropleths, Time Animation, Marker Clustering, and Advanced Interactive Plugins [Codes](https://github.com/Marktechpost/AI-Tutorial-Codes-Included/blob/main/Data%20Science/folium_interactive_geospatial_visualization_Marktechpost.ipynb) [Tutorial](https://www.marktechpost.com/2026/02/27/how-to-build-interactive-geospatial-dashboards-using-folium-with-heatmaps-choropleths-time-animation-marker-clustering-and-advanced-interactive-plugins/)
+
 ▶ A Coding Implementation to Simulate Practical Byzantine Fault Tolerance with Asyncio, Malicious Nodes, and Latency Analysis [Codes](https://github.com/Marktechpost/AI-Tutorial-Codes-Included/blob/main/Distributed%20Systems/pbft_asyncio_byzantine_latency_simulator_Marktechpost.ipynb) [Tutorial](https://www.marktechpost.com/2026/02/24/a-coding-implementation-to-simulate-practical-byzantine-fault-tolerance-with-asyncio-malicious-nodes-and-latency-analysis/)
 
 ▶ How to Build an Advanced, Interactive Exploratory Data Analysis Workflow Using PyGWalker and Feature-Engineered Data [Codes](https://github.com/Marktechpost/AI-Tutorial-Codes-Included/blob/main/Data%20Science/advanced_pygwalker_interactive_eda_marktechpost.py) [Tutorial](https://www.marktechpost.com/2026/02/17/how-to-build-an-advanced-interactive-exploratory-data-analysis-workflow-using-pygwalker-and-feature-engineered-data/)
