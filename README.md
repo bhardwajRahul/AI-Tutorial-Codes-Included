@@ -25,7 +25,7 @@
 
 ### Agentic AI and Agents
 
-
+▶ How to Design a Production-Grade Multi-Agent Communication System Using LangGraph Structured Message Bus, ACP Logging, and Persistent Shared State Architecture [Codes](https://github.com/Marktechpost/AI-Tutorial-Codes-Included/blob/main/Agent%20Communication%20Protocol/Getting%20Started/langgraph_acp_structured_message_bus_multi_agent_system_Marktechpost.ipynb) [Tutorial](https://www.marktechpost.com/2026/03/01/how-to-design-a-production-grade-multi-agent-communication-system-using-langgraph-structured-message-bus-acp-logging-and-persistent-shared-state-architecture/)
 
 ▶ A Coding Implementation to Build a Hierarchical Planner AI Agent Using Open-Source LLMs with Tool Execution and Structured Multi-Agent Reasoning [Codes](https://github.com/Marktechpost/AI-Tutorial-Codes-Included/blob/main/AI%20Agents%20Codes/hierarchical_planner_ai_agent_open_source_llm_marktechpost.py) [Tutorial](https://www.marktechpost.com/2026/02/27/a-coding-implementation-to-build-a-hierarchical-planner-ai-agent-using-open-source-llms-with-tool-execution-and-structured-multi-agent-reasoning/)
 
