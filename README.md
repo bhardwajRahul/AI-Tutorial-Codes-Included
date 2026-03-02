@@ -268,6 +268,8 @@
 
 ### Machine Learning & Data Science
 
+▶ How to Build an Explainable AI Analysis Pipeline Using SHAP-IQ to Understand Feature Importance, Interaction Effects, and Model Decision Breakdown [Codes](https://github.com/Marktechpost/AI-Tutorial-Codes-Included/blob/main/SHAP-IQ/shapiq_explainable_ai_feature_and_interaction_analysis_marktechpost.py) [Tutorial](https://www.marktechpost.com/2026/03/01/how-to-build-an-explainable-ai-analysis-pipeline-using-shap-iq-to-understand-feature-importance-interaction-effects-and-model-decision-breakdown/)
+
 ▶ A Complete End-to-End Coding Guide to MLflow Experiment Tracking, Hyperparameter Optimization, Model Evaluation, and Live Model Deployment [Codes](https://github.com/Marktechpost/AI-Tutorial-Codes-Included/blob/main/MLFlow%20for%20LLM%20Evaluation/mlflow_experiment_tracking_and_model_serving_Marktechpost.ipynb) [Tutorial](https://www.marktechpost.com/2026/03/01/a-complete-end-to-end-coding-guide-to-mlflow-experiment-tracking-hyperparameter-optimization-model-evaluation-and-live-model-deployment/)
 
 ▶ How to Build Interactive Geospatial Dashboards Using Folium with Heatmaps, Choropleths, Time Animation, Marker Clustering, and Advanced Interactive Plugins [Codes](https://github.com/Marktechpost/AI-Tutorial-Codes-Included/blob/main/Data%20Science/folium_interactive_geospatial_visualization_Marktechpost.ipynb) [Tutorial](https://www.marktechpost.com/2026/02/27/how-to-build-interactive-geospatial-dashboards-using-folium-with-heatmaps-choropleths-time-animation-marker-clustering-and-advanced-interactive-plugins/)
