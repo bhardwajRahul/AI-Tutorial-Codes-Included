@@ -359,6 +359,8 @@
 
 ### LLMs,ML and Other AI Section
 
+▶ How to Build a Stable and Efficient QLoRA Fine-Tuning Pipeline Using Unsloth for Large Language Models [Codes](https://github.com/Marktechpost/AI-Tutorial-Codes-Included/blob/main/LLM%20Projects/unsloth_qlora_stable_sft_marktechpost.py) [Tutorial](https://www.marktechpost.com/2026/03/03/how-to-build-a-stable-and-efficient-qlora-fine-tuning-pipeline-using-unsloth-for-large-language-models/)
+
 ▶ A Coding Guide to Instrumenting, Tracing, and Evaluating LLM Applications Using TruLens and OpenAI Models [Codes](https://github.com/Marktechpost/AI-Tutorial-Codes-Included/blob/main/LLM%20Evaluation/trulens_llm_instrumentation_feedback_evaluation_marktechpost.py) [Tutorial](https://www.marktechpost.com/2026/02/22/a-coding-guide-to-instrumenting-tracing-and-evaluating-llm-applications-using-trulens-and-openai-models/)
 
 ▶ How to Align Large Language Models with Human Preferences Using Direct Preference Optimization, QLoRA, and Ultra-Feedback [Codes](https://github.com/Marktechpost/AI-Tutorial-Codes-Included/blob/main/LLM%20Projects/dpo_alignment_qlora_ultrafeedback_marktechpost.py) [Tutorial](https://www.marktechpost.com/2026/02/12/how-to-align-large-language-models-with-human-preferences-using-direct-preference-optimization-qlora-and-ultra-feedback/)
