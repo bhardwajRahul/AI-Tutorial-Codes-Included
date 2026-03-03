@@ -268,6 +268,8 @@
 
 ### Machine Learning & Data Science
 
+▶ A Coding Guide to Build a Scalable End-to-End Analytics and Machine Learning Pipeline on Millions of Rows Using Vaex [Codes](https://github.com/Marktechpost/AI-Tutorial-Codes-Included/blob/main/Data%20Science/vaex_large_scale_analytics_and_ml_pipeline_Marktechpost.ipynb) [Tutorial](https://www.marktechpost.com/2026/03/02/a-coding-guide-to-build-a-scalable-end-to-end-analytics-and-machine-learning-pipeline-on-millions-of-rows-using-vaex/)
+
 ▶ How to Build an Explainable AI Analysis Pipeline Using SHAP-IQ to Understand Feature Importance, Interaction Effects, and Model Decision Breakdown [Codes](https://github.com/Marktechpost/AI-Tutorial-Codes-Included/blob/main/SHAP-IQ/shapiq_explainable_ai_feature_and_interaction_analysis_marktechpost.py) [Tutorial](https://www.marktechpost.com/2026/03/01/how-to-build-an-explainable-ai-analysis-pipeline-using-shap-iq-to-understand-feature-importance-interaction-effects-and-model-decision-breakdown/)
 
 ▶ A Complete End-to-End Coding Guide to MLflow Experiment Tracking, Hyperparameter Optimization, Model Evaluation, and Live Model Deployment [Codes](https://github.com/Marktechpost/AI-Tutorial-Codes-Included/blob/main/MLFlow%20for%20LLM%20Evaluation/mlflow_experiment_tracking_and_model_serving_Marktechpost.ipynb) [Tutorial](https://www.marktechpost.com/2026/03/01/a-complete-end-to-end-coding-guide-to-mlflow-experiment-tracking-hyperparameter-optimization-model-evaluation-and-live-model-deployment/)
