@@ -25,6 +25,8 @@
 
 ### Agentic AI and Agents
 
+▶ How to Design an Advanced Tree-of-Thoughts Multi-Branch Reasoning Agent with Beam Search, Heuristic Scoring, and Depth-Limited Pruning [Codes](https://github.com/Marktechpost/AI-Tutorial-Codes-Included/blob/main/Agentic%20AI%20Codes/tree_of_thoughts_multi_branch_reasoning_agent_marktechpost.py) [Tutorial](https://www.marktechpost.com/2026/03/05/how-to-design-an-advanced-tree-of-thoughts-multi-branch-reasoning-agent-with-beam-search-heuristic-scoring-and-depth-limited-pruning/)
+
 ▶ How to Build an EverMem-Style Persistent AI Agent OS with Hierarchical Memory, FAISS Vector Retrieval, SQLite Storage, and Automated Memory Consolidation [Codes](https://github.com/Marktechpost/AI-Tutorial-Codes-Included/blob/main/Agentic%20AI%20Memory/evermem_persistent_agent_os_faiss_sqlite_marktechpost.py) [Tutorial](https://www.marktechpost.com/2026/03/04/how-to-build-an-evermem-style-persistent-ai-agent-os-with-hierarchical-memory-faiss-vector-retrieval-sqlite-storage-and-automated-memory-consolidation/)
 
 ▶ How to Design a Production-Grade Multi-Agent Communication System Using LangGraph Structured Message Bus, ACP Logging, and Persistent Shared State Architecture [Codes](https://github.com/Marktechpost/AI-Tutorial-Codes-Included/blob/main/Agent%20Communication%20Protocol/Getting%20Started/langgraph_acp_structured_message_bus_multi_agent_system_Marktechpost.ipynb) [Tutorial](https://www.marktechpost.com/2026/03/01/how-to-design-a-production-grade-multi-agent-communication-system-using-langgraph-structured-message-bus-acp-logging-and-persistent-shared-state-architecture/)
