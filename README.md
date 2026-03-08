@@ -272,6 +272,8 @@
 
 ### Machine Learning & Data Science
 
+▶ How to Build Progress Monitoring Using Advanced tqdm for Async, Parallel, Pandas, Logging, and High-Performance Workflows [Codes](https://github.com/Marktechpost/AI-Tutorial-Codes-Included/blob/main/Data%20Science/tqdm_production_progress_monitoring_marktechpost.py) [Tutorial](https://www.marktechpost.com/2026/03/07/how-to-build-progress-monitoring-using-advanced-tqdm-for-async-parallel-pandas-logging-and-high-performance-workflows/)
+
 ▶ A Coding Guide to Build a Scalable End-to-End Machine Learning Data Pipeline Using Daft for High-Performance Structured and Image Data Processing [Codes](https://github.com/Marktechpost/AI-Tutorial-Codes-Included/blob/main/Data%20Science/daft_end_to_end_ml_pipeline_marktechpost.py) [Tutorial](https://www.marktechpost.com/2026/03/05/a-coding-guide-to-build-a-scalable-end-to-end-machine-learning-data-pipeline-using-daft-for-high-performance-structured-and-image-data-processing/)
 
 ▶ A Coding Guide to Build a Scalable End-to-End Analytics and Machine Learning Pipeline on Millions of Rows Using Vaex [Codes](https://github.com/Marktechpost/AI-Tutorial-Codes-Included/blob/main/Data%20Science/vaex_large_scale_analytics_and_ml_pipeline_Marktechpost.ipynb) [Tutorial](https://www.marktechpost.com/2026/03/02/a-coding-guide-to-build-a-scalable-end-to-end-analytics-and-machine-learning-pipeline-on-millions-of-rows-using-vaex/)
