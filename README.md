@@ -25,6 +25,8 @@
 
 ### Agentic AI and Agents
 
+▶ How to Build a Risk-Aware AI Agent with Internal Critic, Self-Consistency Reasoning, and Uncertainty Estimation for Reliable Decision-Making [Codes](https://github.com/Marktechpost/AI-Tutorial-Codes-Included/blob/main/Agentic%20AI%20Codes/critic_augmented_risk_aware_agent_Marktechpost.ipynb) [Tutorial](https://www.marktechpost.com/2026/03/09/how-to-build-a-risk-aware-ai-agent-with-internal-critic-self-consistency-reasoning-and-uncertainty-estimation-for-reliable-decision-making/)
+
 ▶ Building Next-Gen Agentic AI: A Complete Framework for Cognitive Blueprint Driven Runtime Agents with Memory Tools and Validation [Codes](https://github.com/Marktechpost/AI-Tutorial-Codes-Included/blob/main/AI%20Agents%20Codes/cognitive_blueprint_runtime_agents_auton_framework_Marktechpost.ipynb) [Tutorial](https://www.marktechpost.com/2026/03/07/building-next-gen-agentic-ai-a-complete-framework-for-cognitive-blueprint-driven-runtime-agents-with-memory-tools-and-validation/)
 
 ▶ How to Design an Advanced Tree-of-Thoughts Multi-Branch Reasoning Agent with Beam Search, Heuristic Scoring, and Depth-Limited Pruning [Codes](https://github.com/Marktechpost/AI-Tutorial-Codes-Included/blob/main/Agentic%20AI%20Codes/tree_of_thoughts_multi_branch_reasoning_agent_marktechpost.py) [Tutorial](https://www.marktechpost.com/2026/03/05/how-to-design-an-advanced-tree-of-thoughts-multi-branch-reasoning-agent-with-beam-search-heuristic-scoring-and-depth-limited-pruning/)
