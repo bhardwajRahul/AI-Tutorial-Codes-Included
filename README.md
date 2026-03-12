@@ -25,6 +25,8 @@
 
 ### Agentic AI and Agents
 
+▶ How to Build an Autonomous Machine Learning Research Loop in Google Colab Using Andrej Karpathy’s AutoResearch Framework for Hyperparameter Discovery and Experiment Tracking [Codes](https://github.com/Marktechpost/AI-Tutorial-Codes-Included/blob/main/AI%20Agents%20Codes/autoresearch_autonomous_ml_research_colab_Marktechpost.ipynb) [Tutorial](https://www.marktechpost.com/2026/03/12/how-to-build-an-autonomous-machine-learning-research-loop-in-google-colab-using-andrej-karpathys-autoresearch-framework-for-hyperparameter-discovery-and-experiment-tracking/)
+
 ▶ How to Design a Streaming Decision Agent with Partial Reasoning, Online Replanning, and Reactive Mid-Execution Adaptation in Dynamic Environments [Codes](https://github.com/Marktechpost/AI-Tutorial-Codes-Included/blob/main/Agentic%20AI%20Codes/streaming_decision_agent_online_replanning_marktechpost.py) [Tutorial](https://www.marktechpost.com/2026/03/11/how-to-design-a-streaming-decision-agent-with-partial-reasoning-online-replanning-and-reactive-mid-execution-adaptation-in-dynamic-environments/)
 
 ▶ How to Build a Self-Designing Meta-Agent That Automatically Constructs, Instantiates, and Refines Task-Specific AI Agents [Codes](https://github.com/Marktechpost/AI-Tutorial-Codes-Included/blob/main/Agentic%20AI%20Codes/meta_agent_auto_designer_marktechpost.py) [Tutorial](https://www.marktechpost.com/2026/03/10/how-to-build-a-self-designing-meta-agent-that-automatically-constructs-instantiates-and-refines-task-specific-ai-agents/)
