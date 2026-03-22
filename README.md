@@ -25,6 +25,8 @@
 
 ### Agentic AI and Agents
 
+▶ Implementing Deep Q-Learning (DQN) from Scratch Using RLax JAX Haiku and Optax to Train a CartPole Reinforcement Learning Agent [Codes](https://github.com/Marktechpost/AI-Tutorial-Codes-Included/blob/main/Reinforcement%20learning/rlax_dqn_cartpole_jax_tutorial_Marktechpost.ipynb) [Tutorial](https://www.marktechpost.com/2026/03/22/implementing-deep-q-learning-dqn-from-scratch-using-rlax-jax-haiku-and-optax-to-train-a-cartpole-reinforcement-learning-agent/)
+
 ▶ A Coding Implementation Showcasing ClawTeam's Multi-Agent Swarm Orchestration with OpenAI Function Calling [Codes](https://github.com/Marktechpost/AI-Tutorial-Codes-Included/blob/main/AI%20Agents%20Codes/ClawTeam_Agent_Swarm_Intelligence_OpenAI_Marktechpost.ipynb) [Tutorial](https://www.marktechpost.com/2026/03/20/a-coding-implementation-showcasing-clawteams-multi-agent-swarm-orchestration-with-openai-function-calling/)
 
 ▶ A Coding Implementation to Design an Enterprise AI Governance System Using OpenClaw Gateway Policy Engines, Approval Workflows and Auditable Agent Execution [Codes](https://github.com/Marktechpost/AI-Tutorial-Codes-Included/blob/main/Agentic%20AI%20Codes/openclaw_enterprise_ai_governance_gateway_approval_workflows_Marktechpost.ipynb) [Tutorial](https://www.marktechpost.com/2026/03/15/a-coding-implementation-to-design-an-enterprise-ai-governance-system-using-openclaw-gateway-policy-engines-approval-workflows-and-auditable-agent-execution/)
