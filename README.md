@@ -25,6 +25,8 @@
 
 ### Agentic AI and Agents
 
+▶ How to Design a Production-Ready AI Agent That Automates Google Colab Workflows Using Colab-MCP, MCP Tools, FastMCP, and Kernel Execution [Codes](https://github.com/Marktechpost/AI-Tutorial-Codes-Included/blob/main/MCP%20Codes/Wiring_AI_Agents_to_Google_Colab_MCP_Deep_Dive_Marktechpost.ipynb) [Tutorial](https://www.marktechpost.com/2026/03/23/how-to-design-a-production-ready-ai-agent-that-automates-google-colab-workflows-using-colab-mcp-mcp-tools-fastmcp-and-kernel-execution/)
+
 ▶ Implementing Deep Q-Learning (DQN) from Scratch Using RLax JAX Haiku and Optax to Train a CartPole Reinforcement Learning Agent [Codes](https://github.com/Marktechpost/AI-Tutorial-Codes-Included/blob/main/Reinforcement%20learning/rlax_dqn_cartpole_jax_tutorial_Marktechpost.ipynb) [Tutorial](https://www.marktechpost.com/2026/03/22/implementing-deep-q-learning-dqn-from-scratch-using-rlax-jax-haiku-and-optax-to-train-a-cartpole-reinforcement-learning-agent/)
 
 ▶ A Coding Implementation Showcasing ClawTeam's Multi-Agent Swarm Orchestration with OpenAI Function Calling [Codes](https://github.com/Marktechpost/AI-Tutorial-Codes-Included/blob/main/AI%20Agents%20Codes/ClawTeam_Agent_Swarm_Intelligence_OpenAI_Marktechpost.ipynb) [Tutorial](https://www.marktechpost.com/2026/03/20/a-coding-implementation-showcasing-clawteams-multi-agent-swarm-orchestration-with-openai-function-calling/)
@@ -366,6 +368,8 @@
 
 
 ### MCPs Guides 
+
+▶ How to Design a Production-Ready AI Agent That Automates Google Colab Workflows Using Colab-MCP, MCP Tools, FastMCP, and Kernel Execution [Codes](https://github.com/Marktechpost/AI-Tutorial-Codes-Included/blob/main/MCP%20Codes/Wiring_AI_Agents_to_Google_Colab_MCP_Deep_Dive_Marktechpost.ipynb) [Tutorial](https://www.marktechpost.com/2026/03/23/how-to-design-a-production-ready-ai-agent-that-automates-google-colab-workflows-using-colab-mcp-mcp-tools-fastmcp-and-kernel-execution/)
 
 ▶ How to Build a Stateless, Secure, and Asynchronous MCP-Style Protocol for Scalable Agent Workflows [Codes](https://github.com/Marktechpost/AI-Tutorial-Codes-Included/blob/main/MCP%20Codes/stateless_async_mcp_protocol_demo_Marktechpost.ipynb) [Tutorial](https://www.marktechpost.com/2026/01/14/how-to-build-a-stateless-secure-and-asynchronous-mcp-style-protocol-for-scalable-agent-workflows/)
 
