@@ -25,6 +25,8 @@
 
 ### Agentic AI and Agents
 
+▶ How to Build Advanced Cybersecurity AI Agents with CAI Using Tools, Guardrails, Handoffs, and Multi-Agent Workflows [Codes](https://github.com/Marktechpost/AI-Tutorial-Codes-Included/blob/main/AI%20Agents%20Codes/cai_cybersecurity_ai_agents_Marktechpost.ipynb) [Tutorial](https://www.marktechpost.com/2026/03/29/how-to-build-advanced-cybersecurity-ai-agents-with-cai-using-tools-guardrails-handoffs-and-multi-agent-workflows/)
+
 ▶ A Coding Guide to Exploring nanobot’s Full Agent Pipeline, from Wiring Up Tools and Memory to Skills, Subagents, and Cron Scheduling [Codes](https://github.com/Marktechpost/AI-Tutorial-Codes-Included/blob/main/AI%20Agents%20Codes/nanobot_deep_dive_build_ai_agent_from_inside_out_Marktechpost.ipynb) [Tutorial](https://www.marktechpost.com/2026/03/28/a-coding-guide-to-exploring-nanobots-full-agent-pipeline-from-wiring-up-tools-and-memory-to-skills-subagents-and-cron-scheduling/)
 
 ▶ An Implementation of IWE’s Context Bridge as an AI-Powered Knowledge Graph with Agentic RAG, OpenAI Function Calling, and Graph Traversal [Codes](https://github.com/Marktechpost/AI-Tutorial-Codes-Included/blob/main/Agentic%20AI%20Codes/iwe_knowledge_graph_ai_agents_agentic_rag_tutorial_Marktechpost.ipynb) [Tutorial](https://www.marktechpost.com/2026/03/27/an-implementation-of-iwes-context-bridge-as-an-ai-powered-knowledge-graph-with-agentic-rag-openai-function-calling-and-graph-traversal/)
