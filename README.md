@@ -25,6 +25,8 @@
 
 ### Agentic AI and Agents
 
+▶ How to Build Production Ready AgentScope Workflows with ReAct Agents, Custom Tools, Multi-Agent Debate, Structured Output and Concurrent Pipelines [Codes](https://github.com/Marktechpost/AI-Tutorial-Codes-Included/blob/main/Agentic%20Workflows/agentscope_production_agent_workflows_Marktechpost.ipynb) [Tutorial](https://www.marktechpost.com/2026/04/01/how-to-build-production-ready-agentscope-workflows-with-react-agents-custom-tools-multi-agent-debate-structured-output-and-concurrent-pipelines/)
+
 ▶ How to Build and Evolve a Custom OpenAI Agent with A-Evolve Using Benchmarks, Skills, Memory, and Workspace Mutations [Codes](https://github.com/Marktechpost/AI-Tutorial-Codes-Included/blob/main/AI%20Agents%20Codes/a_evolve_openai_agent_tutorial_Marktechpost.ipynb) [Tutorial](https://www.marktechpost.com/2026/03/31/how-to-build-and-evolve-a-custom-openai-agent-with-a-evolve-using-benchmarks-skills-memory-and-workspace-mutations/)
 
 ▶ How to Build Advanced Cybersecurity AI Agents with CAI Using Tools, Guardrails, Handoffs, and Multi-Agent Workflows [Codes](https://github.com/Marktechpost/AI-Tutorial-Codes-Included/blob/main/AI%20Agents%20Codes/cai_cybersecurity_ai_agents_Marktechpost.ipynb) [Tutorial](https://www.marktechpost.com/2026/03/29/how-to-build-advanced-cybersecurity-ai-agents-with-cai-using-tools-guardrails-handoffs-and-multi-agent-workflows/)
