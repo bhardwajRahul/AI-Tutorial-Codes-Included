@@ -25,6 +25,8 @@
 
 ### Agentic AI and Agents
 
+▶ How to Build Production-Ready Agentic Systems with Z.AI GLM-5 Using Thinking Mode, Tool Calling, Streaming, and Multi-Turn Workflows [Codes](https://github.com/Marktechpost/AI-Tutorial-Codes-Included/blob/main/Agentic%20AI%20Codes/glm5_agentic_systems_tutorial_Marktechpost.ipynb) [Tutorial](https://www.marktechpost.com/2026/04/03/how-to-build-production-ready-agentic-systems-with-z-ai-glm-5-using-thinking-mode-tool-calling-streaming-and-multi-turn-workflows/)
+
 ▶ How to Build Production Ready AgentScope Workflows with ReAct Agents, Custom Tools, Multi-Agent Debate, Structured Output and Concurrent Pipelines [Codes](https://github.com/Marktechpost/AI-Tutorial-Codes-Included/blob/main/Agentic%20Workflows/agentscope_production_agent_workflows_Marktechpost.ipynb) [Tutorial](https://www.marktechpost.com/2026/04/01/how-to-build-production-ready-agentscope-workflows-with-react-agents-custom-tools-multi-agent-debate-structured-output-and-concurrent-pipelines/)
 
 ▶ How to Build and Evolve a Custom OpenAI Agent with A-Evolve Using Benchmarks, Skills, Memory, and Workspace Mutations [Codes](https://github.com/Marktechpost/AI-Tutorial-Codes-Included/blob/main/AI%20Agents%20Codes/a_evolve_openai_agent_tutorial_Marktechpost.ipynb) [Tutorial](https://www.marktechpost.com/2026/03/31/how-to-build-and-evolve-a-custom-openai-agent-with-a-evolve-using-benchmarks-skills-memory-and-workspace-mutations/)
