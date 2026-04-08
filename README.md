@@ -308,6 +308,8 @@
 
 ### Machine Learning & Data Science
 
+▶ A Comprehensive Implementation Guide to ModelScope for Model Search, Inference, Fine-Tuning, Evaluation, and Export [Codes](https://github.com/Marktechpost/AI-Tutorial-Codes-Included/blob/main/Deep%20Learning/modelscope_end_to_end_model_hub_dataset_nlp_cv_finetuning_evaluation_export_marktechpost(1).py) [Tutorial](https://www.marktechpost.com/2026/04/08/a-comprehensive-implementation-guide-to-modelscope-for-model-search-inference-fine-tuning-evaluation-and-export/)
+
 ▶ Step by Step Guide to Build an End-to-End Model Optimization Pipeline with NVIDIA Model Optimizer Using FastNAS Pruning and Fine-Tuning [Codes](https://github.com/Marktechpost/AI-Tutorial-Codes-Included/blob/main/Deep%20Learning/nvidia_model_optimizer_fastnas_pipeline_marktechpost.py) [Tutorial](https://www.marktechpost.com/2026/04/03/step-by-step-guide-to-build-an-end-to-end-model-optimization-pipeline-with-nvidia-model-optimizer-using-fastnas-pruning-and-fine-tuning/)
 
 ▶ How to Build a Production-Ready Gemma 3 1B Instruct Generation AI Pipeline with Hugging Face Transformers, Chat Templates, and Colab Inference [Codes](https://github.com/Marktechpost/AI-Tutorial-Codes-Included/blob/main/LLM%20Projects/gemma_3_1b_instruct_tutorial_marktechpost.py) [Tutorial](https://www.marktechpost.com/2026/04/01/how-to-build-a-production-ready-gemma-3-1b-instruct-generation-ai-pipeline-with-hugging-face-transformers-chat-templates-and-colab-inference/)
