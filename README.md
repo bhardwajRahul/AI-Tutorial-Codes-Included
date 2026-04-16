@@ -9,6 +9,8 @@
 ### Agentic AI and Agents Tutorials/Implementations and Notebooks
 
 
+▶ How to Build a Universal Long-Term Memory Layer for AI Agents Using Mem0 and OpenAI [Codes](https://github.com/Marktechpost/AI-Agents-Projects-Tutorials/blob/main/Agentic%20AI%20Memory/mem0_universal_memory_layer_agents_Marktechpost.ipynb) [Tutorial](https://www.marktechpost.com/2026/04/15/how-to-build-a-universal-long-term-memory-layer-for-ai-agents-using-mem0-and-openai/)
+
 ▶ A Coding Implementation to Build Multi-Agent AI Systems with SmolAgents Using Code Execution, Tool Calling, and Dynamic Orchestration [Codes](https://github.com/Marktechpost/AI-Agents-Projects-Tutorials/blob/main/AI%20Agents%20Codes/smolagents_advanced_multi_agent_orchestration_Marktechpost.ipynb) [Tutorial](https://www.marktechpost.com/2026/04/15/a-coding-implementation-to-build-multi-agent-ai-systems-with-smolagents-using-code-execution-tool-calling-and-dynamic-orchestration/)
 
 ▶ Google ADK Multi-Agent Pipeline Tutorial: Data Loading, Statistical Testing, Visualization, and Report Generation in Python [Codes](https://github.com/Marktechpost/AI-Agents-Projects-Tutorials/blob/main/AI%20Agents%20Codes/google_adk_multi_agent_data_analysis_pipeline_Marktechpost.ipynb) [Tutorial](https://www.marktechpost.com/2026/04/13/google-adk-multi-agent-pipeline-tutorial-data-loading-statistical-testing-visualization-and-report-generation-in-python/)
