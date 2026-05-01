@@ -9,6 +9,8 @@
 ### Agentic AI and Agents Tutorials/Implementations and Notebooks
 
 
+▶ A Coding Deep Dive into Agentic UI, Generative UI, State Synchronization, and Interrupt-Driven Approval Flows [Codes](https://github.com/Marktechpost/AI-Agents-Projects-Tutorials/blob/main/Agentic%20AI%20Codes/agentic_ui_protocols_to_pixels_deep_dive_Marktechpost.ipynb) [Tutorial](https://www.marktechpost.com/2026/04/30/a-coding-deep-dive-into-agentic-ui-generative-ui-state-synchronization-and-interrupt-driven-approval-flows/)
+
 ▶ Build a Reinforcement Learning Powered Agent that Learns to Retrieve Relevant Long-Term Memories for Accurate LLM Question Answering [Codes](https://github.com/Marktechpost/AI-Agents-Projects-Tutorials/blob/main/Agentic%20AI%20Memory/rl_agent_memory_retrieval_marktechpost.py) [Tutorial](https://www.marktechpost.com/2026/04/27/build-a-reinforcement-learning-powered-agent-that-learns-to-retrieve-relevant-long-term-memories/)
 
 ▶ How to Design a Production-Grade CAMEL Multi-Agent System with Planning, Tool Use, Self-Consistency, and Critique-Driven Refinement [Codes](https://github.com/Marktechpost/AI-Agents-Projects-Tutorials/blob/main/Agentic%20AI%20Codes/camel_multi_agent_pipeline_Marktechpost.ipynb) [Tutorial](https://www.marktechpost.com/2026/04/22/how-to-design-a-production-grade-camel-multi-agent-system-with-planning-tool-use-self-consistency-and-critique-driven-refinement/)
