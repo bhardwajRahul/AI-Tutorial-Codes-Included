@@ -8,6 +8,8 @@
 
 ### Agentic AI and Agents Tutorials/Implementations and Notebooks
 
+▶ Build a Hybrid-Memory Autonomous Agent with Modular Architecture and Tool Dispatch Using OpenAI [Codes](https://github.com/Marktechpost/AI-Agents-Projects-Tutorials/blob/main/AI%20Agents%20Codes/hybrid_memory_autonomous_agent_Marktechpost.ipynb) [Tutorial](https://www.marktechpost.com/2026/05/12/build-a-hybrid-memory-autonomous-agent-with-modular-architecture-and-tool-dispatch-using-openai/)
+
 ▶ A Coding Implementation to Build Agent-Native Memory Infrastructure with Memori for Persistent Multi-User and Multi-Session LLM Applications [Codes](https://github.com/Marktechpost/AI-Agents-Projects-Tutorials/blob/main/Agentic%20AI%20Memory/memori_agent_native_memory_infrastructure_tutorial_Marktechpost.ipynb) [Tutorial](https://www.marktechpost.com/2026/05/11/a-coding-implementation-to-build-agent-native-memory-infrastructure-with-memori-for-persistent-multi-user-and-multi-session-llm-applications/)
 
 ▶ How to Build a Cost-Aware LLM Routing System with NadirClaw Using Local Prompt Classification and Gemini Model Switching [Codes](https://github.com/Marktechpost/AI-Agents-Projects-Tutorials/blob/main/AI%20Agents%20Codes/nadirclaw_cost_aware_llm_routing_tutorial.py) [Tutorial](https://www.marktechpost.com/2026/05/10/how-to-build-a-cost-aware-llm-routing-system-with-nadirclaw-using-local-prompt-classification-and-gemini-model-switching/)
