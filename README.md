@@ -8,6 +8,8 @@
 
 ### Agentic AI and Agents Tutorials/Implementations and Notebooks
 
+▶ How to Build Repository-Level Code Intelligence with Repowise Using Graph Analysis, Dead-Code Detection, Decisions, and AI Context [Codes](https://github.com/Marktechpost/AI-Agents-Projects-Tutorials/blob/main/AI%20Agents%20Codes/repowise_repository_code_intelligence_tutorial_Marktechpost.ipynb) [Tutorial](https://www.marktechpost.com/2026/05/15/how-to-build-repository-level-code-intelligence-with-repowise-using-graph-analysis-dead-code-detection-decisions-and-ai-context/)
+
 ▶ Build a Hybrid-Memory Autonomous Agent with Modular Architecture and Tool Dispatch Using OpenAI [Codes](https://github.com/Marktechpost/AI-Agents-Projects-Tutorials/blob/main/AI%20Agents%20Codes/hybrid_memory_autonomous_agent_Marktechpost.ipynb) [Tutorial](https://www.marktechpost.com/2026/05/12/build-a-hybrid-memory-autonomous-agent-with-modular-architecture-and-tool-dispatch-using-openai/)
 
 ▶ A Coding Implementation to Build Agent-Native Memory Infrastructure with Memori for Persistent Multi-User and Multi-Session LLM Applications [Codes](https://github.com/Marktechpost/AI-Agents-Projects-Tutorials/blob/main/Agentic%20AI%20Memory/memori_agent_native_memory_infrastructure_tutorial_Marktechpost.ipynb) [Tutorial](https://www.marktechpost.com/2026/05/11/a-coding-implementation-to-build-agent-native-memory-infrastructure-with-memori-for-persistent-multi-user-and-multi-session-llm-applications/)
