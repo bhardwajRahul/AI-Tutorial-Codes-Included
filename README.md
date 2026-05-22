@@ -8,6 +8,8 @@
 
 ### Agentic AI and Agents Tutorials/Implementations and Notebooks
 
+▶ A Step-by-Step Coding Tutorial to Implement GBrain: The Self-Wiring Memory Layer Built by Y Combinator's Garry Tan for AI Agents [Codes](https://github.com/Marktechpost/AI-Agents-Projects-Tutorials/blob/main/Agentic%20AI%20Codes/gbrain-tutorial.ipynb) [Tutorial](https://www.marktechpost.com/2026/05/22/a-step-by-step-coding-tutorial-to-implement-gbrain-the-self-wiring-memory-layer-built-by-y-combinators-garry-tan-for-ai-agents/) [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/<your-username>/<your-repo>/blob/main/notebooks/gbrain/gbrain-tutorial.ipynb)
+
 ▶ Build Recurrent-Depth Transformers with OpenMythos for MLA, GQA, Sparse MoE, and Loop-Scaled Reasoning [Codes](https://github.com/Marktechpost/AI-Agents-Projects-Tutorials/blob/main/Deep%20Learning/openmythos_recurrent_depth_transformer_loop_scaled_reasoning_Marktechpost.ipynb) [Tutorial](https://www.marktechpost.com/2026/05/22/build-recurrent-depth-transformers-with-openmythos-for-mla-gqa-sparse-moe-and-loop-scaled-reasoning/)
 
 ▶ How to Build Repository-Level Code Intelligence with Repowise Using Graph Analysis, Dead-Code Detection, Decisions, and AI Context [Codes](https://github.com/Marktechpost/AI-Agents-Projects-Tutorials/blob/main/AI%20Agents%20Codes/repowise_repository_code_intelligence_tutorial_Marktechpost.ipynb) [Tutorial](https://www.marktechpost.com/2026/05/15/how-to-build-repository-level-code-intelligence-with-repowise-using-graph-analysis-dead-code-detection-decisions-and-ai-context/)
