@@ -8,6 +8,8 @@
 
 ### Agentic AI and Agents Tutorials/Implementations and Notebooks
 
+▶ Build Recurrent-Depth Transformers with OpenMythos for MLA, GQA, Sparse MoE, and Loop-Scaled Reasoning [Codes](https://github.com/Marktechpost/AI-Agents-Projects-Tutorials/blob/main/Deep%20Learning/openmythos_recurrent_depth_transformer_loop_scaled_reasoning_Marktechpost.ipynb) [Tutorial](https://www.marktechpost.com/2026/05/22/build-recurrent-depth-transformers-with-openmythos-for-mla-gqa-sparse-moe-and-loop-scaled-reasoning/)
+
 ▶ How to Build Repository-Level Code Intelligence with Repowise Using Graph Analysis, Dead-Code Detection, Decisions, and AI Context [Codes](https://github.com/Marktechpost/AI-Agents-Projects-Tutorials/blob/main/AI%20Agents%20Codes/repowise_repository_code_intelligence_tutorial_Marktechpost.ipynb) [Tutorial](https://www.marktechpost.com/2026/05/15/how-to-build-repository-level-code-intelligence-with-repowise-using-graph-analysis-dead-code-detection-decisions-and-ai-context/)
 
 ▶ Build a Hybrid-Memory Autonomous Agent with Modular Architecture and Tool Dispatch Using OpenAI [Codes](https://github.com/Marktechpost/AI-Agents-Projects-Tutorials/blob/main/AI%20Agents%20Codes/hybrid_memory_autonomous_agent_Marktechpost.ipynb) [Tutorial](https://www.marktechpost.com/2026/05/12/build-a-hybrid-memory-autonomous-agent-with-modular-architecture-and-tool-dispatch-using-openai/)
