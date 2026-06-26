@@ -8,6 +8,8 @@
 
 ### Agentic AI and Agents Tutorials/Implementations and Notebooks
 
+▶ Build a Nanobot-Style AI Agent in Google Colab with Tool Calling, Session Memory, Skills, and MCP Servers [Codes](https://github.com/MARKTECHPOST-AI-MEDIA-INC/AI-Agents-Projects-Tutorials/blob/main/AI%20Agents%20Codes/nanobot_style_personal_ai_agent_from_scratch_Marktechpost.ipynb) [Tutorial](https://www.marktechpost.com/2026/06/26/build-a-nanobot-style-ai-agent-in-google-colab-with-tool-calling-session-memory-skills-and-mcp-servers/)
+
 ▶ How to Design an OpenHarness Style Agent Runtime with Tools, Memory, Permissions, Skills, and Multi-Agent Coordination [Codes](https://github.com/MARKTECHPOST-AI-MEDIA-INC/AI-Agents-Projects-Tutorials/blob/main/Agentic%20AI%20Codes/openharness_agent_runtime_from_scratch_Marktechpost.ipynb) [Tutorial](https://www.marktechpost.com/2026/06/24/how-to-design-an-openharness-style-agent-runtime-with-tools-memory-permissions-skills-and-multi-agent-coordination/)
 
 ▶ Using Graphify and NetworkX to Map Python Codebase Structure with God Nodes, Communities, and Architecture Visualizations [Codes](https://github.com/MARKTECHPOST-AI-MEDIA-INC/AI-Agents-Projects-Tutorials/blob/main/AI%20Agents%20Codes/graphify_offline_code_knowledge_graph_tutorial_Marktechpost.ipynb) [Tutorial](https://www.marktechpost.com/2026/06/24/using-graphify-and-networkx-to-map-python-codebase-structure-with-god-nodes-communities-and-architecture-visualizations/)
