@@ -1,15 +1,5 @@
 🤝 Show your support - give a ⭐️ if you liked the content
 
-## Star History
-
-<a href="https://www.star-history.com/?type=date&legend=top-left&repos=Marktechpost%2FAI-Tutorial-Codes-Included">
- <picture>
-   <source media="(prefers-color-scheme: dark)" srcset="https://api.star-history.com/chart?repos=Marktechpost/AI-Tutorial-Codes-Included&type=date&theme=dark&legend=top-left" />
-   <source media="(prefers-color-scheme: light)" srcset="https://api.star-history.com/chart?repos=Marktechpost/AI-Tutorial-Codes-Included&type=date&legend=top-left" />
-   <img alt="Star History Chart" src="https://api.star-history.com/chart?repos=Marktechpost/AI-Tutorial-Codes-Included&type=date&legend=top-left" />
- </picture>
-</a>
-
 
 
 ### Agentic AI and Agents Tutorials/Implementations and Notebooks
