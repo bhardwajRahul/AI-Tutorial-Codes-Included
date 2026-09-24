@@ -4,6 +4,8 @@
 
 ### Agentic AI and Agents Tutorials/Implementations and Notebooks
 
+▶ A Coding Guide to TypeSafe AI Jev: Typed Decisions, Calibrated Confidence, and Speculative Fan-Out with a System One Model [Codes](https://github.com/MARKTECHPOST-AI-MEDIA-INC/AI-Agents-Projects-Tutorials/blob/main/LLM%20Projects/typesafe_jev_system_one_typed_decisions_tutorial_Marktechpost.ipynb) [Tutorial](https://www.marktechpost.com/2026/09/23/a-coding-guide-to-typesafe-ai-jev/)
+
 ▶ Building Non-Interactive Agentic Coding Workflows with Moonshot AI’s Kimi CLI, JSONL Streaming, Testing, and Session Memory [Codes](https://github.com/MARKTECHPOST-AI-MEDIA-INC/AI-Agents-Projects-Tutorials/blob/main/Agentic%20AI%20Codes/Kimi_CLI_Advanced_Agentic_Coding_Marktechpost.ipynb) [Tutorial](https://www.marktechpost.com/2026/07/28/building-non-interactive-agentic-coding-workflows-with-moonshot-ais-kimi-cli-jsonl-streaming-testing-and-session-memory/)
 
 ▶ Building a Policy-Governed Multi-Agent Financial Research Workflow with Omnigent [Codes](https://github.com/MARKTECHPOST-AI-MEDIA-INC/AI-Agents-Projects-Tutorials/blob/main/Agentic%20AI%20Codes/omnigent_multi_agent_fx_research_Marktechpost.ipynb) [Tutorial](https://www.marktechpost.com/2026/07/30/building-a-policy-governed-multi-agent-financial-research-workflow-with-omnigent/)
